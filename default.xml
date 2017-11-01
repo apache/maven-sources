@@ -1,14 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <manifest>
-  <remote name='origin' fetch='.' />
-  <default revision='master' remote='origin' />
-  <project path='core/maven' name='maven.git' />
-  <project path='core/its' name='maven-integration-testing.git' />
-  <project path='doxia/doxia' name='maven-doxia.git' />
+  <remote name='gitbox' fetch='https://gitbox.apache.org/repos/asf' />
+  <remote name='gitwip' fetch='https://git-wip-us.apache.org/repos/asf' />
+  <default revision='master' remote='gitbox' />
+
+  <project path='archetype'             name='maven-archetype.git' remote='gitwip' />
+  <project path='core/maven'            name='maven.git' remote='gitwip' />
+  <project path='core/its'              name='maven-integration-testing.git' remote='gitwip' />
+  <project path='dist-tool'             name='maven-dist-tool.git' />
+  <project path='doxia/doxia'           name='maven-doxia.git' />
   <project path='doxia/doxia-sitetools' name='maven-doxia-sitetools.git' />
-  <project path='enforcer' name='maven-enforcer.git' />
-  <project path='jxr' name='maven-jxr.git' />
-  <project path='resolver/resolver' name='maven-resolver.git' />
-  <project path='resolver/resolver-ant-tasks' name='maven-resolver.git' revision="ant-tasks" />
-  <project path='resolver/resolver-demos' name='maven-resolver.git' revision="demos" />
+  <project path='enforcer'              name='maven-enforcer.git' />
+  <project path='indexer'               name='maven-indexer.git' remote='gitwip' />
+  <project path='jxr'                   name='maven-jxr.git' />
+  <project path='plugin-testing'        name='maven-plugin-testing.git' remote='gitwip' />
+  <project path='plugin-tools'          name='maven-plugin-tools.git' />
+  <project path='release'               name='maven-release.git' />
+  <project path='resolver/resolver'     name='maven-resolver.git' remote='gitwip' />
+  <project path='resolver/ant-tasks'    name='maven-resolver.git' revision="ant-tasks" remote='gitwip' />
+  <project path='resolver/demos'        name='maven-resolver.git' revision='demos' remote='gitwip' />
+  <project path='scm'                   name='maven-scm.git' remote='gitwip' />
+  <project path='surefire'              name='maven-surefire.git' remote='gitwip' />
+  <project path='wagon'                 name='maven-wagon.git' remote='gitwip' />
 </manifest>
