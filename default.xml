@@ -2,7 +2,6 @@
 <manifest>
   <remote name='gitbox' fetch='https://gitbox.apache.org/repos/asf' />
   <remote name='gitwip' fetch='https://git-wip-us.apache.org/repos/asf' />
-  <remote name='hboutemy' fetch='https://github.com/hboutemy' />
   <default revision='master' remote='gitbox' sync-j='8' />
 
   <project path='archetype'             name='maven-archetype.git' remote='gitwip' />
@@ -10,24 +9,23 @@
   <project path='core/its'              name='maven-integration-testing.git' remote='gitwip' />
   <project path='dist-tool'             name='maven-dist-tool.git' />
   <project path='doxia/doxia'           name='maven-doxia.git' />
-  <project path='doxia/doxia-sitetools' name='maven-doxia-sitetools.git' />
+  <project path='doxia/sitetools'       name='maven-doxia-sitetools.git' />
+  <project path='doxia-tools/converter' name='maven-doxia-converter.git' />
+  <project path='doxia-tools/linkcheck' name='maven-doxia-linkcheck.git' />
   <project path='enforcer'              name='maven-enforcer.git' />
   <project path='indexer'               name='maven-indexer.git' remote='gitwip' />
   <project path='jxr'                   name='maven-jxr.git' />
   <project path='plugin-testing'        name='maven-plugin-testing.git' remote='gitwip' />
   <project path='plugin-tools'          name='maven-plugin-tools.git' />
+  <project path='pom/maven'             name='maven-parent.git' />
+  <project path='pom/apache'            name='maven-apache-parent.git' />
   <project path='release'               name='maven-release.git' />
   <project path='resolver/resolver'     name='maven-resolver.git' remote='gitwip' />
   <project path='resolver/ant-tasks'    name='maven-resolver.git' revision="ant-tasks" remote='gitwip' />
   <project path='resolver/demos'        name='maven-resolver.git' revision='demos' remote='gitwip' />
   <project path='scm'                   name='maven-scm.git' remote='gitwip' />
+  <project path='skins/default'         name='maven-default-skin.git' />
+  <project path='skins/fluido'          name='maven-fluido-skin.git' />
   <project path='surefire'              name='maven-surefire.git' remote='gitwip' />
   <project path='wagon'                 name='maven-wagon.git' remote='gitwip' />
-
-  <project path='pom/maven'             name='maven-parent.git' remote='hboutemy' />
-  <project path='pom/apache'            name='maven-apache-parent.git' remote='hboutemy' />
-  <project path='skins/default'         name='maven-default-skin.git' remote='hboutemy' />
-  <project path='skins/fluido'          name='maven-fluido-skin.git' remote='hboutemy' />
-  <project path='doxia/converter'       name='maven-doxia-converter.git' remote='hboutemy' />
-  <project path='doxia/linkcheck'       name='maven-doxia-linkcheck.git' remote='hboutemy' />
 </manifest>
