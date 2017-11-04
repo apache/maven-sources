@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <manifest>
-  <remote name='gitbox' fetch='https://gitbox.apache.org/repos/asf' />
+  <remote name='origin' fetch='https://gitbox.apache.org/repos/asf' />
   <remote name='gitwip' fetch='https://git-wip-us.apache.org/repos/asf' />
-  <default revision='master' remote='gitbox' sync-j='8' />
+  <default revision='master' remote='origin' sync-j='8' />
 
   <project path='archetype'             name='maven-archetype.git' remote='gitwip' />
   <project path='core/maven'            name='maven.git' remote='gitwip' />
