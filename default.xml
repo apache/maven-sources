@@ -14,6 +14,8 @@
   <project path='doxia-tools/linkcheck' name='maven-doxia-linkcheck.git' />
   <project path='enforcer'              name='maven-enforcer.git' />
   <project path='indexer'               name='maven-indexer.git' remote='gitwip' />
+  <project path='jenkins/env'           name='maven-jenkins-env.git' />
+  <project path='jenkins/lib'           name='maven-jenkins-lib.git' />
   <project path='jxr'                   name='maven-jxr.git' />
   <project path='plugin-testing'        name='maven-plugin-testing.git' remote='gitwip' />
   <project path='plugin-tools'          name='maven-plugin-tools.git' />
