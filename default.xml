@@ -23,7 +23,7 @@
   <project path='pom/apache'            name='maven-apache-parent.git' />
   <project path='release'               name='maven-release.git' />
   <project path='resolver/resolver'     name='maven-resolver.git' remote='gitwip' />
-  <project path='resolver/ant-tasks'    name='maven-resolver.git' revision="ant-tasks" remote='gitwip' />
+  <project path='resolver/ant-tasks'    name='maven-resolver-ant-tasks.git' />
   <project path='scm'                   name='maven-scm.git' remote='gitwip' />
   <project path='skins/default'         name='maven-default-skin.git' />
   <project path='skins/fluido'          name='maven-fluido-skin.git' />
