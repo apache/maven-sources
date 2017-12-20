@@ -2,6 +2,7 @@
 <manifest>
   <remote   name='origin' fetch='https://gitbox.apache.org/repos/asf' />
   <remote   name='gitwip' fetch='https://git-wip-us.apache.org/repos/asf' />
+  <remote   name='plexus' fetch='https://github.com/codehaus-plexus' />
   <default revision='master' remote='origin' sync-j='8' />
 
   <project path='archetype'                                 name='maven-archetype.git'           remote='gitwip' />
@@ -98,4 +99,23 @@
   <project path='skins/fluido'                              name='maven-fluido-skin.git' />
   <project path='surefire'                                  name='maven-surefire.git'            remote='gitwip' />
   <project path='wagon'                                     name='maven-wagon.git'               remote='gitwip' />
+
+  <project path='plexus/modello'                            name='modello.git'                   remote='plexus' />
+  <project path='plexus/classworlds'                        name='plexus-classworlds.git'        remote='plexus' />
+  <project path='plexus/components/archiver'                name='plexus-archiver.git'           remote='plexus' />
+  <project path='plexus/components/cli'                     name='plexus-cli.git'                remote='plexus' />
+  <project path='plexus/components/compiler'                name='plexus-compiler.git'           remote='plexus' />
+  <project path='plexus/components/digest'                  name='plexus-digest.git'             remote='plexus' />
+  <project path='plexus/components/i18n'                    name='plexus-i18n.git'               remote='plexus' />
+  <project path='plexus/components/interactivity'           name='plexus-interactivity.git'      remote='plexus' />
+  <project path='plexus/components/interpolation'           name='plexus-interpolation.git'      remote='plexus' />
+  <project path='plexus/components/io'                      name='plexus-io.git'                 remote='plexus' />
+  <project path='plexus/components/languages'               name='plexus-languages.git'          remote='plexus' />
+  <project path='plexus/components/resources'               name='plexus-resources.git'          remote='plexus' />
+  <project path='plexus/components/swizzle'                 name='plexus-swizzle.git'            remote='plexus' />
+  <project path='plexus/components/velocity'                name='plexus-velocity.git'           remote='plexus' />
+  <project path='plexus/plexus-components'                  name='plexus-components.git'         remote='plexus' />
+  <project path='plexus/plexus-containers'                  name='plexus-containers.git'         remote='plexus' />
+  <project path='plexus/plexus-pom'                         name='plexus-pom.git'                remote='plexus' />
+  <project path='plexus/utils'                              name='plexus-utils.git'              remote='plexus' />
 </manifest>
