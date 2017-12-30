@@ -119,14 +119,14 @@
   <project path='surefire'                                  name='maven-surefire.git'            remote='gitwip' />
   <project path='wagon'                                     name='maven-wagon.git'               remote='gitwip' />
 
-  <project path='svn/site'                                  name='maven-site.git'                remote='svn2git' />
-  <!--project path='svn/archetypes'                            name='maven-archetypes.git'          remote='svn2git' /-->
-  <project path='svn/resources'                             name='maven-resources.git'           remote='svn2git' />
-  <project path='svn/repository-tools'                      name='maven-repository-tools.git'    remote='svn2git' />
-  <project path='svn/sandbox'                               name='maven-sandbox.git'             remote='svn2git' />
-  <!--project path='svn/doxia-site'                            name='maven-doxia-site.git'          remote='svn2git' /-->
-  <!--project path='svn/doxia-ide'                             name='maven-doxia-ide.git'           remote='svn2git' /-->
-  <project path='svn/doxia-tools'                           name='maven-doxia-tools.git'         remote='svn2git' />
+  <project path='svn/site'                                  name='maven-site.git'                remote='svn2git' revision='trunk' />
+  <!--project path='svn/archetypes'                            name='maven-archetypes.git'          remote='svn2git' revision='trunk' /-->
+  <project path='svn/resources'                             name='maven-resources.git'           remote='svn2git' revision='trunk' />
+  <project path='svn/repository-tools'                      name='maven-repository-tools.git'    remote='svn2git' revision='trunk' />
+  <project path='svn/sandbox'                               name='maven-sandbox.git'             remote='svn2git' revision='trunk' />
+  <!--project path='svn/doxia-site'                            name='maven-doxia-site.git'          remote='svn2git' revision='trunk' /-->
+  <!--project path='svn/doxia-ide'                             name='maven-doxia-ide.git'           remote='svn2git' revision='trunk' /-->
+  <project path='svn/doxia-tools'                           name='maven-doxia-tools.git'         remote='svn2git' revision='trunk' />
 
   <project path='plexus/modello'                            name='modello.git'                   remote='plexus' />
   <project path='plexus/classworlds'                        name='plexus-classworlds.git'        remote='plexus' />
