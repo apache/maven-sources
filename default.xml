@@ -25,8 +25,8 @@
   <default revision='master' remote='origin' sync-j='8' />
 
   <project path='archetype'                                 name='maven-archetype.git'           remote='gitwip' />
-  <project path='core/maven'                                name='maven.git'                     remote='gitwip' />
-  <project path='core/its'                                  name='maven-integration-testing.git' remote='gitwip' />
+  <project path='core/maven'                                name='maven.git' />
+  <project path='core/its'                                  name='maven-integration-testing.git' />
   <project path='dist-tool'                                 name='maven-dist-tool.git' />
   <project path='doxia/doxia'                               name='maven-doxia.git' />
   <project path='doxia/sitetools'                           name='maven-doxia-sitetools.git' />
