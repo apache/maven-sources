@@ -33,7 +33,7 @@
   <project path='doxia-tools/converter'                     name='maven-doxia-converter.git' />
   <project path='doxia-tools/linkcheck'                     name='maven-doxia-linkcheck.git' />
   <project path='enforcer'                                  name='maven-enforcer.git' />
-  <project path='indexer'                                   name='maven-indexer.git'             remote='gitwip' />
+  <project path='indexer'                                   name='maven-indexer.git' />
   <project path='jenkins/env'                               name='maven-jenkins-env.git' />
   <project path='jenkins/lib'                               name='maven-jenkins-lib.git' />
   <project path='jxr'                                       name='maven-jxr.git' />
