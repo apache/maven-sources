@@ -118,7 +118,7 @@
   <project path='skins/default'                             name='maven-default-skin.git' />
   <project path='skins/fluido'                              name='maven-fluido-skin.git' />
   <project path='studies'                                   name='maven-studies.git' />
-  <project path='surefire'                                  name='maven-surefire.git'            remote='gitwip' />
+  <project path='surefire'                                  name='maven-surefire.git' />
   <project path='wagon'                                     name='maven-wagon.git' />
 
   <project path='svn/site'                                  name='maven-site.git'                remote='svn2git' revision='trunk' />
