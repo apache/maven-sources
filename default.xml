@@ -37,7 +37,7 @@
   <project path='jenkins/env'                               name='maven-jenkins-env.git' />
   <project path='jenkins/lib'                               name='maven-jenkins-lib.git' />
   <project path='jxr'                                       name='maven-jxr.git' />
-  <project path='plugin-testing'                            name='maven-plugin-testing.git'      remote='gitwip' />
+  <project path='plugin-testing'                            name='maven-plugin-testing.git' />
   <project path='plugin-tools'                              name='maven-plugin-tools.git' />
   <project path='plugins/maven-acr-plugin'                  name='maven-acr-plugin.git' />
   <project path='plugins/maven-ant-plugin'                  name='maven-ant-plugin.git' />
