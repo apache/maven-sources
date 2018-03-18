@@ -19,12 +19,11 @@
 -->
 <manifest>
   <remote   name='origin' fetch='https://gitbox.apache.org/repos/asf' />
-  <remote   name='gitwip' fetch='https://git-wip-us.apache.org/repos/asf' />
   <remote   name='plexus' fetch='https://github.com/codehaus-plexus' />
   <remote   name='svn2git' fetch='https://github.com/apache' />
   <default revision='master' remote='origin' sync-j='8' />
 
-  <project path='archetype'                                 name='maven-archetype.git'           remote='gitwip' />
+  <project path='archetype'                                 name='maven-archetype.git' />
   <project path='core/maven'                                name='maven.git' />
   <project path='core/its'                                  name='maven-integration-testing.git' />
   <project path='dist-tool'                                 name='maven-dist-tool.git' />
