@@ -24,6 +24,7 @@
   <default revision='master' remote='origin' sync-j='8' />
 
   <project path='archetype'                                 name='maven-archetype.git' />
+  <project path='archetypes'                                name='maven-archetypes.git' />
   <project path='core/maven'                                name='maven.git' />
   <project path='core/its'                                  name='maven-integration-testing.git' />
   <project path='dist-tool'                                 name='maven-dist-tool.git' />
@@ -121,7 +122,6 @@
   <project path='wagon'                                     name='maven-wagon.git' />
 
   <project path='svn/site'                                  name='maven-site.git'                remote='svn2git' revision='trunk' />
-  <project path='svn/archetypes'                            name='maven-archetypes.git'          remote='svn2git' revision='trunk' />
   <project path='svn/resources'                             name='maven-resources.git'           remote='svn2git' revision='trunk' />
   <project path='svn/repository-tools'                      name='maven-repository-tools.git'    remote='svn2git' revision='trunk' />
   <project path='svn/sandbox'                               name='maven-sandbox.git'             remote='svn2git' revision='trunk' />
