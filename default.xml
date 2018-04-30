@@ -29,6 +29,7 @@
   <project path='core/its'                                  name='maven-integration-testing.git' />
   <project path='dist-tool'                                 name='maven-dist-tool.git' />
   <project path='doxia/doxia'                               name='maven-doxia.git' />
+  <project path='doxia/site'                                name='maven-doxia-site.git' revision='trunk' />
   <project path='doxia/sitetools'                           name='maven-doxia-sitetools.git' />
   <project path='doxia-tools/converter'                     name='maven-doxia-converter.git' />
   <project path='doxia-tools/linkcheck'                     name='maven-doxia-linkcheck.git' />
@@ -115,17 +116,16 @@
   <project path='shared/shared-resources'                   name='maven-shared-resources.git' />
   <project path='shared/shared-utils'                       name='maven-shared-utils.git' />
   <project path='shared/verifier'                           name='maven-verifier.git' />
+  <project path='site'                                      name='maven-site.git' revision='trunk' />
   <project path='skins/default'                             name='maven-default-skin.git' />
   <project path='skins/fluido'                              name='maven-fluido-skin.git' />
   <project path='studies'                                   name='maven-studies.git' />
   <project path='surefire'                                  name='maven-surefire.git' />
   <project path='wagon'                                     name='maven-wagon.git' />
 
-  <project path='svn/site'                                  name='maven-site.git'                remote='svn2git' revision='trunk' />
   <project path='svn/resources'                             name='maven-resources.git'           remote='svn2git' revision='trunk' />
   <project path='svn/repository-tools'                      name='maven-repository-tools.git'    remote='svn2git' revision='trunk' />
   <project path='svn/sandbox'                               name='maven-sandbox.git'             remote='svn2git' revision='trunk' />
-  <project path='svn/doxia-site'                            name='maven-doxia-site.git'          remote='svn2git' revision='trunk' />
   <project path='svn/doxia-ide'                             name='maven-doxia-ide.git'           remote='svn2git' revision='trunk' />
   <project path='svn/doxia-tools'                           name='maven-doxia-tools.git'         remote='svn2git' revision='trunk' />
 
