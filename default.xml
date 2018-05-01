@@ -29,7 +29,7 @@
   <project path='core/its'                                  name='maven-integration-testing.git' />
   <project path='dist-tool'                                 name='maven-dist-tool.git' />
   <project path='doxia/doxia'                               name='maven-doxia.git' />
-  <project path='doxia/site'                                name='maven-doxia-site.git' revision='trunk' />
+  <project path='doxia/site'                                name='maven-doxia-site.git' />
   <project path='doxia/sitetools'                           name='maven-doxia-sitetools.git' />
   <project path='doxia-tools/converter'                     name='maven-doxia-converter.git' />
   <project path='doxia-tools/linkcheck'                     name='maven-doxia-linkcheck.git' />
@@ -116,7 +116,7 @@
   <project path='shared/shared-resources'                   name='maven-shared-resources.git' />
   <project path='shared/shared-utils'                       name='maven-shared-utils.git' />
   <project path='shared/verifier'                           name='maven-verifier.git' />
-  <project path='site'                                      name='maven-site.git' revision='trunk' />
+  <project path='site'                                      name='maven-site.git' />
   <project path='skins/default'                             name='maven-default-skin.git' />
   <project path='skins/fluido'                              name='maven-fluido-skin.git' />
   <project path='studies'                                   name='maven-studies.git' />
