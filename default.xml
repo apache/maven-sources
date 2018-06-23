@@ -27,6 +27,8 @@
   <project path='archetypes'                                name='maven-archetypes.git' />
   <project path='core/maven'                                name='maven.git' />
   <project path='core/its'                                  name='maven-integration-testing.git' />
+  <project path='core/resolver'                             name='maven-resolver.git' />
+  <project path='core/resolver-ant-tasks'                   name='maven-resolver-ant-tasks.git' />
   <project path='dist-tool'                                 name='maven-dist-tool.git' />
   <project path='doxia/doxia'                               name='maven-doxia.git' />
   <project path='doxia/site'                                name='maven-doxia-site.git' />
@@ -87,8 +89,6 @@
   <project path='pom/maven'                                 name='maven-parent.git' />
   <project path='pom/apache'                                name='maven-apache-parent.git' />
   <project path='release'                                   name='maven-release.git' />
-  <project path='resolver/resolver'                         name='maven-resolver.git' />
-  <project path='resolver/ant-tasks'                        name='maven-resolver-ant-tasks.git' />
   <project path='scm'                                       name='maven-scm.git' />
   <project path='shared/archiver'                           name='maven-archiver.git' />
   <project path='shared/artifact-resolver'                  name='maven-artifact-resolver.git' />
