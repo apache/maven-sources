@@ -13,3 +13,7 @@ repo start master --all
 ```
 
 Then simply use the cloned content with normal `git` commands.
+
+## Sources Overview
+
+See [Maven Sources Overview](https://maven.apache.org/scm.html) description.
