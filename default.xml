@@ -153,7 +153,7 @@
   <project path='plexus/components/resources'               name='plexus-resources.git'          remote='plexus' />
   <project path='plexus/components/swizzle'                 name='plexus-swizzle.git'            remote='plexus' />
   <project path='plexus/components/velocity'                name='plexus-velocity.git'           remote='plexus' />
-  <project path='plexus/plexus-containers'                  name='plexus-containers.git'         remote='plexus' revision='plexus-containers-1.x' />
+  <project path='plexus/plexus-containers'                  name='plexus-containers.git'         remote='plexus' />
   <project path='plexus/pom/components'                     name='plexus-components.git'         remote='plexus' />
   <project path='plexus/pom/plexus'                         name='plexus-pom.git'                remote='plexus' />
   <project path='plexus/utils'                              name='plexus-utils.git'              remote='plexus' />
