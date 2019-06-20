@@ -64,7 +64,7 @@
   <project path='plugins/reporting/maven-pmd-plugin'        name='maven-pmd-plugin.git' />
   <project path='plugins/reporting/maven-project-info-reports-plugin' name='maven-project-info-reports-plugin.git' />
 
-  <project path='plugins/tools/maven-ant-plugin'            name='maven-ant-plugin.git' />
+  <!--project path='plugins/tools/maven-ant-plugin'            name='maven-ant-plugin.git' /-->
   <project path='plugins/tools/maven-antrun-plugin'         name='maven-antrun-plugin.git' />
   <project path='plugins/tools/archetype'                   name='maven-archetype.git' />
   <project path='plugins/tools/maven-assembly-plugin'       name='maven-assembly-plugin.git' />
@@ -80,7 +80,7 @@
   <project path='plugins/tools/plugin-tools'                name='maven-plugin-tools.git' />
   <project path='plugins/tools/release'                     name='maven-release.git' />
   <project path='plugins/tools/maven-remote-resources-plugin' name='maven-remote-resources-plugin.git' />
-  <project path='plugins/tools/maven-repository-plugin'     name='maven-repository-plugin.git' />
+  <!--project path='plugins/tools/maven-repository-plugin'     name='maven-repository-plugin.git' /-->
   <project path='plugins/tools/scm'                         name='maven-scm.git' />
   <project path='plugins/tools/maven-scm-publish-plugin'    name='maven-scm-publish-plugin.git' />
   <project path='plugins/tools/maven-scripting-plugin'      name='maven-scripting-plugin.git' />
@@ -88,12 +88,12 @@
   <project path='plugins/tools/maven-toolchains-plugin'     name='maven-toolchains-plugin.git' />
 
   <project path='shared/archiver'                           name='maven-archiver.git' />
-  <project path='shared/artifact-resolver'                  name='maven-artifact-resolver.git' />
+  <!--project path='shared/artifact-resolver'                  name='maven-artifact-resolver.git' /-->
   <project path='shared/artifact-transfer'                  name='maven-artifact-transfer.git' />
   <project path='shared/common-artifact-filters'            name='maven-common-artifact-filters.git' />
   <project path='shared/dependency-analyzer'                name='maven-dependency-analyzer.git' />
   <project path='shared/dependency-tree'                    name='maven-dependency-tree.git' />
-  <project path='shared/downloader'                         name='maven-downloader.git' />
+  <!--project path='shared/downloader'                         name='maven-downloader.git' /-->
   <project path='shared/file-management'                    name='maven-file-management.git' />
   <project path='shared/filtering'                          name='maven-filtering.git' />
   <project path='shared/invoker'                            name='maven-invoker.git' />
@@ -105,7 +105,7 @@
   <project path='shared/reporting-exec'                     name='maven-reporting-exec.git' />
   <project path='shared/reporting-impl'                     name='maven-reporting-impl.git' />
   <project path='shared/repository-builder'                 name='maven-repository-builder.git' />
-  <project path='shared/runtime'                            name='maven-runtime.git' />
+  <!--project path='shared/runtime'                            name='maven-runtime.git' /-->
   <project path='shared/script-interpreter'                 name='maven-script-interpreter.git' />
   <project path='shared/shared-incremental'                 name='maven-shared-incremental.git' />
   <project path='shared/shared-io'                          name='maven-shared-io.git' />
