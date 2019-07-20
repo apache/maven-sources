@@ -143,6 +143,7 @@
   <project path='plexus/modello'                            name='modello.git'                   remote='plexus' />
   <project path='plexus/classworlds'                        name='plexus-classworlds.git'        remote='plexus' />
   <project path='plexus/components/archiver'                name='plexus-archiver.git'           remote='plexus' />
+  <project path='plexus/components/cipher'                  name='plexus-cipher.git'             remote='plexus' />
   <project path='plexus/components/cli'                     name='plexus-cli.git'                remote='plexus' />
   <project path='plexus/components/compiler'                name='plexus-compiler.git'           remote='plexus' />
   <project path='plexus/components/digest'                  name='plexus-digest.git'             remote='plexus' />
@@ -152,6 +153,7 @@
   <project path='plexus/components/io'                      name='plexus-io.git'                 remote='plexus' />
   <project path='plexus/components/languages'               name='plexus-languages.git'          remote='plexus' />
   <project path='plexus/components/resources'               name='plexus-resources.git'          remote='plexus' />
+  <project path='plexus/components/sec-dispatcher'          name='plexus-sec-dispatcher.git'     remote='plexus' />
   <project path='plexus/components/swizzle'                 name='plexus-swizzle.git'            remote='plexus' />
   <project path='plexus/components/velocity'                name='plexus-velocity.git'           remote='plexus' />
   <project path='plexus/plexus-containers'                  name='plexus-containers.git'         remote='plexus' />
