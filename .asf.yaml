@@ -1,0 +1,7 @@
+github:
+  description: "Apache Maven Sources"
+  homepage: https://maven.apache.org/scm.html
+  labels:
+    - java
+    - build-management
+    - maven
