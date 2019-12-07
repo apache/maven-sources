@@ -32,7 +32,6 @@ under the License.
 
   <name>Aggregator POM for Tools Plugins</name>
   <modules>
-    <module>../../../plugins/tools/maven-ant-plugin</module>
     <module>../../../plugins/tools/maven-antrun-plugin</module>
     <module>../../../plugins/tools/archetype</module>
     <module>../../../plugins/tools/maven-assembly-plugin</module>

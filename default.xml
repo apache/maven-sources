@@ -64,7 +64,6 @@
   <project path='plugins/reporting/maven-pmd-plugin'        name='maven-pmd-plugin.git' />
   <project path='plugins/reporting/maven-project-info-reports-plugin' name='maven-project-info-reports-plugin.git' />
 
-  <project path='plugins/tools/maven-ant-plugin'            name='maven-ant-plugin.git' />
   <project path='plugins/tools/maven-antrun-plugin'         name='maven-antrun-plugin.git' />
   <project path='plugins/tools/archetype'                   name='maven-archetype.git' />
   <project path='plugins/tools/maven-assembly-plugin'       name='maven-assembly-plugin.git' />
