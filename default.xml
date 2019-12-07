@@ -79,7 +79,6 @@
   <project path='plugins/tools/plugin-tools'                name='maven-plugin-tools.git' />
   <project path='plugins/tools/release'                     name='maven-release.git' />
   <project path='plugins/tools/maven-remote-resources-plugin' name='maven-remote-resources-plugin.git' />
-  <project path='plugins/tools/maven-repository-plugin'     name='maven-repository-plugin.git' />
   <project path='plugins/tools/scm'                         name='maven-scm.git' />
   <project path='plugins/tools/maven-scm-publish-plugin'    name='maven-scm-publish-plugin.git' />
   <project path='plugins/tools/maven-scripting-plugin'      name='maven-scripting-plugin.git' />

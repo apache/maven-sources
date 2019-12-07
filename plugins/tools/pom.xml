@@ -47,7 +47,6 @@ under the License.
     <module>../../../plugins/tools/plugin-tools</module>
     <module>../../../plugins/tools/release</module>
     <module>../../../plugins/tools/maven-remote-resources-plugin</module>
-    <module>../../../plugins/tools/maven-repository-plugin</module>
     <module>../../../plugins/tools/scm</module>
     <module>../../../plugins/tools/maven-scm-publish-plugin</module>
     <module>../../../plugins/tools/maven-scripting-plugin</module>
