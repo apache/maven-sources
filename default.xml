@@ -86,7 +86,6 @@
   <project path='plugins/tools/maven-toolchains-plugin'     name='maven-toolchains-plugin.git' />
 
   <project path='shared/archiver'                           name='maven-archiver.git' />
-  <project path='shared/artifact-resolver'                  name='maven-artifact-resolver.git' />
   <project path='shared/artifact-transfer'                  name='maven-artifact-transfer.git' />
   <project path='shared/common-artifact-filters'            name='maven-common-artifact-filters.git' />
   <project path='shared/dependency-analyzer'                name='maven-dependency-analyzer.git' />

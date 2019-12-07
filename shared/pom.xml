@@ -33,7 +33,6 @@ under the License.
   <name>Aggregator POM for Shared Components</name>
   <modules>
     <module>../../shared/archiver</module>
-    <module>../../shared/artifact-resolver</module>
     <module>../../shared/artifact-transfer</module>
     <module>../../shared/common-artifact-filters</module>
     <module>../../shared/dependency-analyzer</module>
