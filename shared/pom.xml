@@ -37,7 +37,6 @@ under the License.
     <module>../../shared/common-artifact-filters</module>
     <module>../../shared/dependency-analyzer</module>
     <module>../../shared/dependency-tree</module>
-    <module>../../shared/downloader</module>
     <module>../../shared/file-management</module>
     <module>../../shared/filtering</module>
     <module>../../shared/invoker</module>
