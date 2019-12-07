@@ -101,7 +101,6 @@
   <project path='shared/reporting-exec'                     name='maven-reporting-exec.git' />
   <project path='shared/reporting-impl'                     name='maven-reporting-impl.git' />
   <project path='shared/repository-builder'                 name='maven-repository-builder.git' />
-  <project path='shared/runtime'                            name='maven-runtime.git' />
   <project path='shared/script-interpreter'                 name='maven-script-interpreter.git' />
   <project path='shared/shared-incremental'                 name='maven-shared-incremental.git' />
   <project path='shared/shared-io'                          name='maven-shared-io.git' />
