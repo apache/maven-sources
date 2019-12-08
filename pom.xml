@@ -62,7 +62,7 @@ under the License.
     <module>plexus</module>
     <module>plugins</module>
     <module>shared</module>
-    <module>sisu</module>
+    <!--module>sisu</module--><!-- disabled: failing for unknown reason -->
     <module>../site</module>
     <module>svn</module>
   </modules>
