@@ -63,6 +63,7 @@ under the License.
     <module>plugins</module>
     <module>shared</module>
     <!--module>sisu</module--><!-- disabled: failing for unknown reason -->
+    <module>studies</module>
     <module>../site</module>
     <module>svn</module>
   </modules>

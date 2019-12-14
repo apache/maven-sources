@@ -126,7 +126,16 @@
   <project path='misc/indexer'                              name='maven-indexer.git' />
   <project path='misc/plugin-testing'                       name='maven-plugin-testing.git' />
   <project path='misc/wagon'                                name='maven-wagon.git' />
-  <project path='misc/studies'                              name='maven-studies.git' />
+
+  <project path='studies/master'                            name='maven-studies.git' />
+  <project path='studies/consumer-pom'                      name='maven-studies.git' revision="consumer-pom" />
+  <project path='studies/maven-basedir-filesystem'          name='maven-studies.git' revision="maven-basedir-filesystem" />
+  <project path='studies/maven-buildinfo-plugin'            name='maven-studies.git' revision="maven-buildinfo-plugin" />
+  <project path='studies/maven-ci-extension'                name='maven-studies.git' revision="maven-ci-extension" />
+  <project path='studies/maven-default-plugins'             name='maven-studies.git' revision="maven-default-plugins" />
+  <project path='studies/maven-eventsound-extension'        name='maven-studies.git' revision="maven-eventsound-extension" />
+  <project path='studies/maven-extension-demo'              name='maven-studies.git' revision="maven-extension-demo" />
+  <project path='studies/maven-xml'                         name='maven-studies.git' revision="maven-xml" />
 
   <project path='svn/resources'                             name='maven-resources.git'           remote='svn2git' revision='trunk' />
   <project path='svn/repository-tools'                      name='maven-repository-tools.git'    remote='svn2git' revision='trunk' />
