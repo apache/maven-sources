@@ -112,6 +112,8 @@
   <project path='doxia/doxia'                               name='maven-doxia.git' />
   <project path='doxia/site'                                name='maven-doxia-site.git' />
   <project path='doxia/sitetools'                           name='maven-doxia-sitetools.git' />
+  <project path='doxia/tools/doxia-book-maven-plugin'       name='maven-doxia-book-maven-plugin.git' />
+  <project path='doxia/tools/doxia-book-renderer'           name='maven-doxia-book-renderer.git' />
   <project path='doxia/tools/converter'                     name='maven-doxia-converter.git' />
   <project path='doxia/tools/linkcheck'                     name='maven-doxia-linkcheck.git' />
 
@@ -141,7 +143,6 @@
   <project path='svn/repository-tools'                      name='maven-repository-tools.git'    remote='svn2git' revision='trunk' />
   <project path='svn/sandbox'                               name='maven-sandbox.git'             remote='svn2git' revision='trunk' />
   <project path='svn/doxia-ide'                             name='maven-doxia-ide.git'           remote='svn2git' revision='trunk' />
-  <project path='svn/doxia-tools'                           name='maven-doxia-tools.git'         remote='svn2git' revision='trunk' />
 
   <project path='plexus/codehaus-plexus.github.io'          name='codehaus-plexus.github.io.git' remote='plexus' revision='source' />
   <project path='plexus/modello'                            name='modello.git'                   remote='plexus' />

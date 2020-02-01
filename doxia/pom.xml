@@ -35,6 +35,8 @@ under the License.
     <module>../../doxia/doxia</module>
     <module>../../doxia/site</module>
     <module>../../doxia/sitetools</module>
+    <module>../../doxia/tools/doxia-book-maven-plugin</module>
+    <module>../../doxia/tools/doxia-book-renderer</module>
     <module>../../doxia/tools/converter</module>
     <module>../../doxia/tools/linkcheck</module>
   </modules>

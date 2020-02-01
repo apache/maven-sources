@@ -37,9 +37,5 @@ under the License.
     <!--module>../../svn/sandbox</module-->
     <!--module>../../svn/doxia-ide/eclipse/doxia-osgi</module>
     <module>../../svn/doxia-ide/eclipse/eclipse-plugins</module-->
-    <module>../../svn/doxia-tools/doxia-book-maven-plugin</module>
-    <module>../../svn/doxia-tools/doxia-book-renderer</module>
-    <!--module>../../svn/doxia-tools/doxia-converter</module--><!-- switched to Git -->
-    <!--<module>../../svn/doxia-tools/doxia-linkcheck</module--><!-- switched to Git -->
   </modules>
 </project>
