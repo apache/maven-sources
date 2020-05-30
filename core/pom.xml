@@ -34,5 +34,8 @@ under the License.
   <modules>
     <module>../../core/maven</module>
     <module>../../core/its</module>
+    <module>../../core/resolver</module>
+    <module>../../core/resolver-ant-tasks</module>
+    <module>../../core/maven-wrapper-plugin</module>
   </modules>
 </project>
