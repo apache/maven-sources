@@ -67,7 +67,7 @@
 
   <project path='plugins/tools/maven-antrun-plugin'         name='maven-antrun-plugin.git' />
   <project path='plugins/tools/archetype'                   name='maven-archetype.git' />
-  <project path='plugins/tools/artifact'                    name='maven-artifact-plugin.git' />
+  <project path='plugins/tools/maven-artifact-plugin'       name='maven-artifact-plugin.git' />
   <project path='plugins/tools/maven-assembly-plugin'       name='maven-assembly-plugin.git' />
   <project path='plugins/tools/maven-dependency-plugin'     name='maven-dependency-plugin.git' />
   <project path='plugins/tools/enforcer'                    name='maven-enforcer.git' />
