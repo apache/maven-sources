@@ -34,6 +34,7 @@ under the License.
   <modules>
     <module>../../../plugins/tools/maven-antrun-plugin</module>
     <module>../../../plugins/tools/archetype</module>
+    <module>../../../plugins/tools/maven-artifact-plugin</module>
     <module>../../../plugins/tools/maven-assembly-plugin</module>
     <module>../../../plugins/tools/maven-dependency-plugin</module>
     <module>../../../plugins/tools/enforcer</module>

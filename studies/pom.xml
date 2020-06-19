@@ -34,7 +34,6 @@ under the License.
   <modules>
     <module>../../studies/consumer-pom</module>
     <module>../../studies/maven-basedir-filesystem</module>
-    <module>../../studies/maven-buildinfo-plugin</module>
     <module>../../studies/maven-ci-extension</module>
     <module>../../studies/maven-default-plugins</module>
     <module>../../studies/maven-eventsound-extension</module>
