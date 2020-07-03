@@ -1,0 +1,288 @@
+[submodule "site"]
+	path = site
+	url = https://gitbox.apache.org/repos/asf/maven-site.git
+[submodule "sources"]
+	path = sources
+	url = https://gitbox.apache.org/repos/asf/maven-sources.git
+[submodule "core/maven"]
+	path = core/maven
+	url = https://gitbox.apache.org/repos/asf/maven.git
+[submodule "core/its"]
+	path = core/its
+	url = https://gitbox.apache.org/repos/asf/maven-integration-testing.git
+[submodule "core/resolver"]
+	path = core/resolver
+	url = https://gitbox.apache.org/repos/asf/maven-resolver.git
+[submodule "core/resolver-ant-tasks"]
+	path = core/resolver-ant-tasks
+	url = https://gitbox.apache.org/repos/asf/maven-resolver-ant-tasks.git
+[submodule "core/maven-wrapper-plugin"]
+	path = core/maven-wrapper-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-wrapper-plugin.git
+[submodule "plugins/core/maven-clean-plugin"]
+	path = plugins/core/maven-clean-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-clean-plugin.git
+[submodule "plugins/core/maven-compiler-plugin"]
+	path = plugins/core/maven-compiler-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-compiler-plugin.git
+[submodule "plugins/core/maven-deploy-plugin"]
+	path = plugins/core/maven-deploy-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-deploy-plugin.git
+[submodule "plugins/core/maven-install-plugin"]
+	path = plugins/core/maven-install-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-install-plugin.git
+[submodule "plugins/core/maven-resources-plugin"]
+	path = plugins/core/maven-resources-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-resources-plugin.git
+[submodule "plugins/core/maven-site-plugin"]
+	path = plugins/core/maven-site-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-site-plugin.git
+[submodule "plugins/core/surefire"]
+	path = plugins/core/surefire
+	url = https://gitbox.apache.org/repos/asf/maven-surefire.git
+[submodule "plugins/core/maven-verifier-plugin"]
+	path = plugins/core/maven-verifier-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-verifier-plugin.git
+[submodule "plugins/packaging/maven-ear-plugin"]
+	path = plugins/packaging/maven-ear-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-ear-plugin.git
+[submodule "plugins/reporting/maven-changelog-plugin"]
+	path = plugins/reporting/maven-changelog-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-changelog-plugin.git
+[submodule "plugins/tools/maven-antrun-plugin"]
+	path = plugins/tools/maven-antrun-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-antrun-plugin.git
+[submodule "doxia/tools/doxia-book-maven-plugin"]
+	path = doxia/tools/doxia-book-maven-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-doxia-book-maven-plugin.git
+[submodule "misc/archetypes"]
+	path = misc/archetypes
+	url = https://gitbox.apache.org/repos/asf/maven-archetypes.git
+[submodule "misc/pom/maven"]
+	path = misc/pom/maven
+	url = https://gitbox.apache.org/repos/asf/maven-parent.git
+[submodule "misc/skins/default"]
+	path = misc/skins/default
+	url = https://gitbox.apache.org/repos/asf/maven-default-skin.git
+[submodule "misc/jenkins/env"]
+	path = misc/jenkins/env
+	url = https://gitbox.apache.org/repos/asf/maven-jenkins-env.git
+[submodule "plugins/packaging/maven-jar-plugin"]
+	path = plugins/packaging/maven-jar-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-jar-plugin.git
+[submodule "plugins/packaging/maven-rar-plugin"]
+	path = plugins/packaging/maven-rar-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-rar-plugin.git
+[submodule "plugins/packaging/maven-war-plugin"]
+	path = plugins/packaging/maven-war-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-war-plugin.git
+[submodule "plugins/packaging/maven-acr-plugin"]
+	path = plugins/packaging/maven-acr-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-acr-plugin.git
+[submodule "plugins/packaging/maven-shade-plugin"]
+	path = plugins/packaging/maven-shade-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-shade-plugin.git
+[submodule "plugins/packaging/maven-source-plugin"]
+	path = plugins/packaging/maven-source-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-source-plugin.git
+[submodule "plugins/packaging/maven-jlink-plugin"]
+	path = plugins/packaging/maven-jlink-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-jlink-plugin.git
+[submodule "plugins/reporting/maven-changes-plugin"]
+	path = plugins/reporting/maven-changes-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-changes-plugin.git
+[submodule "plugins/reporting/maven-checkstyle-plugin"]
+	path = plugins/reporting/maven-checkstyle-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-checkstyle-plugin.git
+[submodule "plugins/reporting/maven-doap-plugin"]
+	path = plugins/reporting/maven-doap-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-doap-plugin.git
+[submodule "plugins/reporting/maven-docck-plugin"]
+	path = plugins/reporting/maven-docck-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-docck-plugin.git
+[submodule "plugins/reporting/maven-javadoc-plugin"]
+	path = plugins/reporting/maven-javadoc-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-javadoc-plugin.git
+[submodule "plugins/reporting/maven-jdeps-plugin"]
+	path = plugins/reporting/maven-jdeps-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-jdeps-plugin.git
+[submodule "plugins/reporting/jxr"]
+	path = plugins/reporting/jxr
+	url = https://gitbox.apache.org/repos/asf/maven-jxr.git
+[submodule "plugins/reporting/maven-linkcheck-plugin"]
+	path = plugins/reporting/maven-linkcheck-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-linkcheck-plugin.git
+[submodule "plugins/reporting/maven-pmd-plugin"]
+	path = plugins/reporting/maven-pmd-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-pmd-plugin.git
+[submodule "plugins/reporting/maven-project-info-reports-plugin"]
+	path = plugins/reporting/maven-project-info-reports-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-project-info-reports-plugin
+[submodule "plugins/tools/archetype"]
+	path = plugins/tools/archetype
+	url = https://gitbox.apache.org/repos/asf/maven-archetype.git
+[submodule "plugins/tools/maven-artifact-plugin"]
+	path = plugins/tools/maven-artifact-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-artifact-plugin.git
+[submodule "plugins/tools/maven-assembly-plugin"]
+	path = plugins/tools/maven-assembly-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-assembly-plugin.git
+[submodule "plugins/tools/maven-dependency-plugin"]
+	path = plugins/tools/maven-dependency-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-dependency-plugin.git
+[submodule "plugins/tools/enforcer"]
+	path = plugins/tools/enforcer
+	url = https://gitbox.apache.org/repos/asf/maven-enforcer.git
+[submodule "plugins/tools/maven-gpg-plugin"]
+	path = plugins/tools/maven-gpg-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-gpg-plugin.git
+[submodule "plugins/tools/maven-help-plugin"]
+	path = plugins/tools/maven-help-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-help-plugin.git
+[submodule "plugins/tools/maven-invoker-plugin"]
+	path = plugins/tools/maven-invoker-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-invoker-plugin.git
+[submodule "plugins/tools/maven-jarsigner-plugin"]
+	path = plugins/tools/maven-jarsigner-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-jarsigner-plugin.git
+[submodule "plugins/tools/maven-jdeprscan-plugin"]
+	path = plugins/tools/maven-jdeprscan-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-jdeprscan-plugin.git
+[submodule "plugins/tools/maven-patch-plugin"]
+	path = plugins/tools/maven-patch-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-patch-plugin.git
+[submodule "plugins/tools/maven-pdf-plugin"]
+	path = plugins/tools/maven-pdf-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-pdf-plugin.git
+[submodule "plugins/tools/plugin-tools"]
+	path = plugins/tools/plugin-tools
+	url = https://gitbox.apache.org/repos/asf/maven-plugin-tools.git
+[submodule "plugins/tools/release"]
+	path = plugins/tools/release
+	url = https://gitbox.apache.org/repos/asf/maven-release.git
+[submodule "plugins/tools/maven-remote-resources-plugin"]
+	path = plugins/tools/maven-remote-resources-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-remote-resources-plugin
+[submodule "plugins/tools/scm"]
+	path = plugins/tools/scm
+	url = https://gitbox.apache.org/repos/asf/maven-scm.git
+[submodule "plugins/tools/maven-scm-publish-plugin"]
+	path = plugins/tools/maven-scm-publish-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-scm-publish-plugin.git
+[submodule "plugins/tools/maven-scripting-plugin"]
+	path = plugins/tools/maven-scripting-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-scripting-plugin.git
+[submodule "plugins/tools/maven-stage-plugin"]
+	path = plugins/tools/maven-stage-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-stage-plugin.git
+[submodule "plugins/tools/maven-toolchains-plugin"]
+	path = plugins/tools/maven-toolchains-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-toolchains-plugin.git
+[submodule "shared/archiver"]
+	path = shared/archiver
+	url = https://gitbox.apache.org/repos/asf/maven-archiver.git
+[submodule "shared/artifact-transfer"]
+	path = shared/artifact-transfer
+	url = https://gitbox.apache.org/repos/asf/maven-artifact-transfer.git
+[submodule "shared/common-artifact-filters"]
+	path = shared/common-artifact-filters
+	url = https://gitbox.apache.org/repos/asf/maven-common-artifact-filters.git
+[submodule "shared/dependency-analyzer"]
+	path = shared/dependency-analyzer
+	url = https://gitbox.apache.org/repos/asf/maven-dependency-analyzer.git
+[submodule "shared/dependency-tree"]
+	path = shared/dependency-tree
+	url = https://gitbox.apache.org/repos/asf/maven-dependency-tree.git
+[submodule "shared/file-management"]
+	path = shared/file-management
+	url = https://gitbox.apache.org/repos/asf/maven-file-management.git
+[submodule "shared/filtering"]
+	path = shared/filtering
+	url = https://gitbox.apache.org/repos/asf/maven-filtering.git
+[submodule "shared/invoker"]
+	path = shared/invoker
+	url = https://gitbox.apache.org/repos/asf/maven-invoker.git
+[submodule "shared/jarsigner"]
+	path = shared/jarsigner
+	url = https://gitbox.apache.org/repos/asf/maven-jarsigner.git
+[submodule "shared/mapping"]
+	path = shared/mapping
+	url = https://gitbox.apache.org/repos/asf/maven-mapping.git
+[submodule "shared/project-utils"]
+	path = shared/project-utils
+	url = https://gitbox.apache.org/repos/asf/maven-project-utils.git
+[submodule "shared/reporting-api"]
+	path = shared/reporting-api
+	url = https://gitbox.apache.org/repos/asf/maven-reporting-api.git
+[submodule "shared/reporting-exec"]
+	path = shared/reporting-exec
+	url = https://gitbox.apache.org/repos/asf/maven-reporting-exec.git
+[submodule "shared/reporting-impl"]
+	path = shared/reporting-impl
+	url = https://gitbox.apache.org/repos/asf/maven-reporting-impl.git
+[submodule "shared/script-interpreter"]
+	path = shared/script-interpreter
+	url = https://gitbox.apache.org/repos/asf/maven-script-interpreter.git
+[submodule "shared/shared-incremental"]
+	path = shared/shared-incremental
+	url = https://gitbox.apache.org/repos/asf/maven-shared-incremental.git
+[submodule "shared/shared-io"]
+	path = shared/shared-io
+	url = https://gitbox.apache.org/repos/asf/maven-shared-io.git
+[submodule "shared/shared-jar"]
+	path = shared/shared-jar
+	url = https://gitbox.apache.org/repos/asf/maven-shared-jar.git
+[submodule "shared/shared-resources"]
+	path = shared/shared-resources
+	url = https://gitbox.apache.org/repos/asf/maven-shared-resources.git
+[submodule "shared/shared-utils"]
+	path = shared/shared-utils
+	url = https://gitbox.apache.org/repos/asf/maven-shared-utils.git
+[submodule "shared/verifier"]
+	path = shared/verifier
+	url = https://gitbox.apache.org/repos/asf/maven-verifier.git
+[submodule "doxia/doxia"]
+	path = doxia/doxia
+	url = https://gitbox.apache.org/repos/asf/maven-doxia.git
+[submodule "doxia/site"]
+	path = doxia/site
+	url = https://gitbox.apache.org/repos/asf/maven-doxia-site.git
+[submodule "doxia/sitetools"]
+	path = doxia/sitetools
+	url = https://gitbox.apache.org/repos/asf/maven-doxia-sitetools.git
+[submodule "doxia/tools/doxia-book-renderer"]
+	path = doxia/tools/doxia-book-renderer
+	url = https://gitbox.apache.org/repos/asf/maven-doxia-book-renderer.git
+[submodule "doxia/tools/converter"]
+	path = doxia/tools/converter
+	url = https://gitbox.apache.org/repos/asf/maven-doxia-converter.git
+[submodule "doxia/tools/linkcheck"]
+	path = doxia/tools/linkcheck
+	url = https://gitbox.apache.org/repos/asf/maven-doxia-linkcheck.git
+[submodule "misc/pom/apache"]
+	path = misc/pom/apache
+	url = https://gitbox.apache.org/repos/asf/maven-apache-parent.git
+[submodule "misc/skins/fluido"]
+	path = misc/skins/fluido
+	url = https://gitbox.apache.org/repos/asf/maven-fluido-skin.git
+[submodule "misc/dist-tool"]
+	path = misc/dist-tool
+	url = https://gitbox.apache.org/repos/asf/maven-dist-tool.git
+[submodule "misc/jenkins/lib"]
+	path = misc/jenkins/lib
+	url = https://gitbox.apache.org/repos/asf/maven-jenkins-lib.git
+[submodule "misc/indexer"]
+	path = misc/indexer
+	url = https://gitbox.apache.org/repos/asf/maven-indexer.git
+[submodule "misc/plugin-testing"]
+	path = misc/plugin-testing
+	url = https://gitbox.apache.org/repos/asf/maven-plugin-testing.git
+[submodule "misc/wagon"]
+	path = misc/wagon
+	url = https://gitbox.apache.org/repos/asf/maven-wagon.git
+[submodule "plugins/packaging/maven-ejb-plugin"]
+	path = plugins/packaging/maven-ejb-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-ejb-plugin.git
+[submodule "plugins/packaging/maven-jmod-plugin"]
+	path = plugins/packaging/maven-jmod-plugin
+	url = https://gitbox.apache.org/repos/asf/maven-jmod-plugin.git
