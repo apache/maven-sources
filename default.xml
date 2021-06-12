@@ -132,7 +132,6 @@
   <project path='studies/master'                            name='maven-studies.git' />
   <project path='studies/consumer-pom'                      name='maven-studies.git' revision="consumer-pom" />
   <project path='studies/maven-basedir-filesystem'          name='maven-studies.git' revision="maven-basedir-filesystem" />
-  <project path='studies/maven-buildinfo-plugin'            name='maven-studies.git' revision="maven-buildinfo-plugin" />
   <project path='studies/maven-ci-extension'                name='maven-studies.git' revision="maven-ci-extension" />
   <project path='studies/maven-default-plugins'             name='maven-studies.git' revision="maven-default-plugins" />
   <project path='studies/maven-eventsound-extension'        name='maven-studies.git' revision="maven-eventsound-extension" />
