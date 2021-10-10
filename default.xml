@@ -138,6 +138,7 @@
   <project path='studies/maven-eventsound-extension'        name='maven-studies.git' revision="maven-eventsound-extension" />
   <project path='studies/maven-extension-demo'              name='maven-studies.git' revision="maven-extension-demo" />
   <project path='studies/maven-xml'                         name='maven-studies.git' revision="maven-xml" />
+  <project path='studies/maven-wrapper'                     name='maven-studies.git' revision="maven-wrapper" />
 
   <project path='svn/resources'                             name='maven-resources.git'           remote='svn2git' revision='trunk' />
   <project path='svn/repository-tools'                      name='maven-repository-tools.git'    remote='svn2git' revision='trunk' />
