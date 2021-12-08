@@ -32,7 +32,7 @@
   <project path='core/its'                                  name='maven-integration-testing.git' />
   <project path='core/resolver'                             name='maven-resolver.git' />
   <project path='core/resolver-ant-tasks'                   name='maven-resolver-ant-tasks.git' />
-  <project path='core/maven-wrapper'                        name='maven-wrapper.git' />
+  <project path='core/wrapper'                              name='maven-wrapper.git' />
 
   <project path='plugins/core/maven-clean-plugin'           name='maven-clean-plugin.git' />
   <project path='plugins/core/maven-compiler-plugin'        name='maven-compiler-plugin.git' />
