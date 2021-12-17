@@ -29,6 +29,7 @@
 
   <project path='core/maven'                                name='maven.git' />
   <project path='core/maven-3'                              name='maven.git' revision="maven-3.8.x" />
+  <project path='core/mvnd'                                 name='maven-mvnd.git' />
   <project path='core/its'                                  name='maven-integration-testing.git' />
   <project path='core/resolver'                             name='maven-resolver.git' />
   <project path='core/resolver-ant-tasks'                   name='maven-resolver-ant-tasks.git' />
