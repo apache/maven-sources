@@ -286,3 +286,16 @@
 [submodule "plugins/packaging/maven-jmod-plugin"]
 	path = plugins/packaging/maven-jmod-plugin
 	url = https://gitbox.apache.org/repos/asf/maven-jmod-plugin.git
+[submodule "core/build-cache"]
+	path = core/build-cache
+	url = https://github.com/apache/maven-build-cache-extension.git
+[submodule "core/mvnd"]
+	path = core/mvnd
+	url = https://github.com/apache/maven-mvnd.git
+[submodule "core/maven-3"]
+	path = core/maven-3
+	url = https://github.com/apache/maven.git
+	branch = maven-3.8.x
+[submodule "core/wrapper"]
+	path = core/wrapper
+	url = https://github.com/apache/maven-wrapper.git
