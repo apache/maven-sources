@@ -44,7 +44,6 @@ under the License.
     <module>maven-jarsigner-plugin</module>
     <module>maven-jdeprscan-plugin</module>
     <module>maven-patch-plugin</module>
-    <module>maven-pdf-plugin</module>
     <module>plugin-tools</module>
     <module>release</module>
     <module>maven-remote-resources-plugin</module>

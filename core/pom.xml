@@ -33,11 +33,12 @@ under the License.
   <name>Aggregator POM for core</name>
   <modules>
     <module>maven</module>
-    <module>maven-3</module>
     <module>its</module>
     <module>resolver</module>
     <module>resolver-ant-tasks</module>
+    <!-- disable until the required PR is merged into master
     <module>build-cache</module>
+    -->
     <module>mvnd</module>
     <module>wrapper</module>
   </modules>
