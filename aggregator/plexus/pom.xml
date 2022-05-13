@@ -24,27 +24,21 @@ under the License.
 
   <parent>
     <groupId>org.apache.maven.aggregator</groupId>
-    <artifactId>plexus</artifactId>
+    <artifactId>maven-aggregator</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>plexus-components</artifactId>
+  <artifactId>plexus</artifactId>
   <packaging>pom</packaging>
 
-  <name>Aggregator POM for Plexus Components</name>
+  <name>Aggregator POM for Plexus</name>
   <modules>
-    <module>../../../plexus/components/cipher</module>
-    <module>../../../plexus/components/compiler</module>
-    <module>../../../plexus/components/i18n</module>
-    <module>../../../plexus/components/interpolation</module>
-    <module>../../../plexus/components/languages</module>
-    <module>../../../plexus/components/sec-dispatcher</module>
-    <module>../../../plexus/components/archiver</module>
-    <module>../../../plexus/components/cli</module>
-    <module>../../../plexus/components/digest</module>
-    <module>../../../plexus/components/interactivity</module>
-    <module>../../../plexus/components/io</module>
-    <module>../../../plexus/components/resources</module>
-    <!--module>../../../plexus/components/swizzle</module-->
-    <module>../../../plexus/components/velocity</module>
+    <module>../../../plexus/classworlds</module>
+    <module>../../../plexus/codehaus-plexus.github.io</module>
+    <module>components</module>
+    <module>../../../plexus/modello</module>
+    <module>../../../plexus/plexus-containers</module>
+    <module>../../../plexus/pom/components</module>
+    <module>../../../plexus/pom/plexus</module>
+    <module>../../../plexus/utils</module>
   </modules>
 </project>

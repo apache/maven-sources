@@ -27,17 +27,15 @@ under the License.
     <artifactId>maven-aggregator</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>studies</artifactId>
+  <artifactId>svn</artifactId>
   <packaging>pom</packaging>
 
-  <name>Aggregator POM for Maven Studies</name>
+  <name>Aggregator POM for artifacts still in SVN</name>
   <modules>
-    <module>../../studies/consumer-pom</module>
-    <module>../../studies/maven-basedir-filesystem</module>
-    <module>../../studies/maven-ci-extension</module>
-    <module>../../studies/maven-default-plugins</module>
-    <module>../../studies/maven-eventsound-extension</module>
-    <module>../../studies/maven-extension-demo</module>
-    <module>../../studies/maven-xml</module>
+    <module>../../../svn/resources</module>
+    <module>../../../svn/repository-tools</module>
+    <!--module>../../svn/sandbox</module-->
+    <!--module>../../svn/doxia-ide/eclipse/doxia-osgi</module>
+    <module>../../../svn/doxia-ide/eclipse/eclipse-plugins</module-->
   </modules>
 </project>

@@ -27,21 +27,20 @@ under the License.
     <artifactId>plugins</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>plugins-reporting</artifactId>
+  <artifactId>plugins-packaging</artifactId>
   <packaging>pom</packaging>
 
-  <name>Aggregator POM for Reporting Plugins</name>
+  <name>Aggregator POM for Packaging Plugins</name>
   <modules>
-    <module>../../../plugins/reporting/maven-changelog-plugin</module>
-    <module>../../../plugins/reporting/maven-changes-plugin</module>
-    <module>../../../plugins/reporting/maven-checkstyle-plugin</module>
-    <module>../../../plugins/reporting/maven-doap-plugin</module>
-    <module>../../../plugins/reporting/maven-docck-plugin</module>
-    <module>../../../plugins/reporting/maven-javadoc-plugin</module>
-    <module>../../../plugins/reporting/maven-jdeps-plugin</module>
-    <module>../../../plugins/reporting/jxr</module>
-    <module>../../../plugins/reporting/maven-linkcheck-plugin</module>
-    <module>../../../plugins/reporting/maven-pmd-plugin</module>
-    <module>../../../plugins/reporting/maven-project-info-reports-plugin</module>
+    <module>../../../../plugins/packaging/maven-ear-plugin</module>
+    <module>../../../../plugins/packaging/maven-ejb-plugin</module>
+    <module>../../../../plugins/packaging/maven-jar-plugin</module>
+    <module>../../../../plugins/packaging/maven-rar-plugin</module>
+    <module>../../../../plugins/packaging/maven-war-plugin</module>
+    <module>../../../../plugins/packaging/maven-acr-plugin</module>
+    <module>../../../../plugins/packaging/maven-shade-plugin</module>
+    <module>../../../../plugins/packaging/maven-source-plugin</module>
+    <module>../../../../plugins/packaging/maven-jlink-plugin</module>
+    <module>../../../../plugins/packaging/maven-jmod-plugin</module>
   </modules>
 </project>

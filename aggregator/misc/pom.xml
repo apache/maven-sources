@@ -32,16 +32,16 @@ under the License.
 
   <name>Aggregator POM for misc</name>
   <modules>
-    <module>../../misc/archetypes</module>
-    <module>../../misc/dist-tool</module>
-    <module>../../misc/indexer</module>
+    <module>../../../misc/archetypes</module>
+    <module>../../../misc/dist-tool</module>
+    <module>../../../misc/indexer</module>
     <!-- not a module: jenkins -->
-    <module>../../misc/plugin-testing</module>
-    <module>../../misc/pom/apache</module>
-    <module>../../misc/pom/maven</module>
-    <module>../../misc/skins/default</module>
-    <module>../../misc/skins/fluido</module>
+    <module>../../../misc/plugin-testing</module>
+    <module>../../../misc/pom/apache</module>
+    <module>../../../misc/pom/maven</module>
+    <module>../../../misc/skins/default</module>
+    <module>../../../misc/skins/fluido</module>
     <!-- not a module: studies -->
-    <module>../../misc/wagon</module>
+    <module>../../../misc/wagon</module>
   </modules>
 </project>

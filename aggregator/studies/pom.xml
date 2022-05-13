@@ -27,17 +27,17 @@ under the License.
     <artifactId>maven-aggregator</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>doxia</artifactId>
+  <artifactId>studies</artifactId>
   <packaging>pom</packaging>
 
-  <name>Aggregator POM for Doxia</name>
+  <name>Aggregator POM for Maven Studies</name>
   <modules>
-    <module>../../doxia/doxia</module>
-    <module>../../doxia/site</module>
-    <module>../../doxia/sitetools</module>
-    <module>../../doxia/tools/doxia-book-maven-plugin</module>
-    <module>../../doxia/tools/doxia-book-renderer</module>
-    <module>../../doxia/tools/converter</module>
-    <module>../../doxia/tools/linkcheck</module>
+    <module>../../../studies/consumer-pom</module>
+    <module>../../../studies/maven-basedir-filesystem</module>
+    <module>../../../studies/maven-ci-extension</module>
+    <module>../../../studies/maven-default-plugins</module>
+    <module>../../../studies/maven-eventsound-extension</module>
+    <module>../../../studies/maven-extension-demo</module>
+    <module>../../../studies/maven-xml</module>
   </modules>
 </project>

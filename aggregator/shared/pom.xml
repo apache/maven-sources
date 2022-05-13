@@ -32,26 +32,26 @@ under the License.
 
   <name>Aggregator POM for Shared Components</name>
   <modules>
-    <module>../../shared/archiver</module>
-    <module>../../shared/artifact-transfer</module>
-    <module>../../shared/common-artifact-filters</module>
-    <module>../../shared/dependency-analyzer</module>
-    <module>../../shared/dependency-tree</module>
-    <module>../../shared/file-management</module>
-    <module>../../shared/filtering</module>
-    <module>../../shared/invoker</module>
-    <module>../../shared/jarsigner</module>
-    <module>../../shared/mapping</module>
-    <module>../../shared/project-utils</module>
-    <module>../../shared/reporting-api</module>
-    <module>../../shared/reporting-exec</module>
-    <module>../../shared/reporting-impl</module>
-    <module>../../shared/script-interpreter</module>
-    <module>../../shared/shared-incremental</module>
-    <module>../../shared/shared-io</module>
-    <module>../../shared/shared-jar</module>
-    <module>../../shared/shared-resources</module>
-    <module>../../shared/shared-utils</module>
-    <module>../../shared/verifier</module>
+    <module>../../../shared/archiver</module>
+    <module>../../../shared/artifact-transfer</module>
+    <module>../../../shared/common-artifact-filters</module>
+    <module>../../../shared/dependency-analyzer</module>
+    <module>../../../shared/dependency-tree</module>
+    <module>../../../shared/file-management</module>
+    <module>../../../shared/filtering</module>
+    <module>../../../shared/invoker</module>
+    <module>../../../shared/jarsigner</module>
+    <module>../../../shared/mapping</module>
+    <module>../../../shared/project-utils</module>
+    <module>../../../shared/reporting-api</module>
+    <module>../../../shared/reporting-exec</module>
+    <module>../../../shared/reporting-impl</module>
+    <module>../../../shared/script-interpreter</module>
+    <module>../../../shared/shared-incremental</module>
+    <module>../../../shared/shared-io</module>
+    <module>../../../shared/shared-jar</module>
+    <module>../../../shared/shared-resources</module>
+    <module>../../../shared/shared-utils</module>
+    <module>../../../shared/verifier</module>
   </modules>
 </project>

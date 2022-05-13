@@ -24,18 +24,24 @@ under the License.
 
   <parent>
     <groupId>org.apache.maven.aggregator</groupId>
-    <artifactId>maven-aggregator</artifactId>
+    <artifactId>plugins</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>svn</artifactId>
+  <artifactId>plugins-reporting</artifactId>
   <packaging>pom</packaging>
 
-  <name>Aggregator POM for artifacts still in SVN</name>
+  <name>Aggregator POM for Reporting Plugins</name>
   <modules>
-    <module>../../svn/resources</module>
-    <module>../../svn/repository-tools</module>
-    <!--module>../../svn/sandbox</module-->
-    <!--module>../../svn/doxia-ide/eclipse/doxia-osgi</module>
-    <module>../../svn/doxia-ide/eclipse/eclipse-plugins</module-->
+    <module>../../../../plugins/reporting/maven-changelog-plugin</module>
+    <module>../../../../plugins/reporting/maven-changes-plugin</module>
+    <module>../../../../plugins/reporting/maven-checkstyle-plugin</module>
+    <module>../../../../plugins/reporting/maven-doap-plugin</module>
+    <module>../../../../plugins/reporting/maven-docck-plugin</module>
+    <module>../../../../plugins/reporting/maven-javadoc-plugin</module>
+    <module>../../../../plugins/reporting/maven-jdeps-plugin</module>
+    <module>../../../../plugins/reporting/jxr</module>
+    <module>../../../../plugins/reporting/maven-linkcheck-plugin</module>
+    <module>../../../../plugins/reporting/maven-pmd-plugin</module>
+    <module>../../../../plugins/reporting/maven-project-info-reports-plugin</module>
   </modules>
 </project>

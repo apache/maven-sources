@@ -27,20 +27,18 @@ under the License.
     <artifactId>plugins</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>plugins-packaging</artifactId>
+  <artifactId>plugins-core</artifactId>
   <packaging>pom</packaging>
 
-  <name>Aggregator POM for Packaging Plugins</name>
+  <name>Aggregator POM for Core Plugins</name>
   <modules>
-    <module>../../../plugins/packaging/maven-ear-plugin</module>
-    <module>../../../plugins/packaging/maven-ejb-plugin</module>
-    <module>../../../plugins/packaging/maven-jar-plugin</module>
-    <module>../../../plugins/packaging/maven-rar-plugin</module>
-    <module>../../../plugins/packaging/maven-war-plugin</module>
-    <module>../../../plugins/packaging/maven-acr-plugin</module>
-    <module>../../../plugins/packaging/maven-shade-plugin</module>
-    <module>../../../plugins/packaging/maven-source-plugin</module>
-    <module>../../../plugins/packaging/maven-jlink-plugin</module>
-    <module>../../../plugins/packaging/maven-jmod-plugin</module>
+    <module>../../../../plugins/core/maven-clean-plugin</module>
+    <module>../../../../plugins/core/maven-compiler-plugin</module>
+    <module>../../../../plugins/core/maven-deploy-plugin</module>
+    <module>../../../../plugins/core/maven-install-plugin</module>
+    <module>../../../../plugins/core/maven-resources-plugin</module>
+    <module>../../../../plugins/core/maven-site-plugin</module>
+    <module>../../../../plugins/core/surefire</module>
+    <module>../../../../plugins/core/maven-verifier-plugin</module>
   </modules>
 </project>

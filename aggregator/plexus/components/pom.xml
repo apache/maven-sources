@@ -24,17 +24,27 @@ under the License.
 
   <parent>
     <groupId>org.apache.maven.aggregator</groupId>
-    <artifactId>maven-aggregator</artifactId>
+    <artifactId>plexus</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>sisu</artifactId>
+  <artifactId>plexus-components</artifactId>
   <packaging>pom</packaging>
 
-  <name>Aggregator POM for Sisu</name>
+  <name>Aggregator POM for Plexus Components</name>
   <modules>
-    <!--module>../../sisu/sisu</module-->
-    <module>../../sisu/inject</module>
-    <module>../../sisu/plexus</module>
-    <module>../../sisu/mojos</module>
+    <module>../../../../plexus/components/cipher</module>
+    <module>../../../../plexus/components/compiler</module>
+    <module>../../../../plexus/components/i18n</module>
+    <module>../../../../plexus/components/interpolation</module>
+    <module>../../../../plexus/components/languages</module>
+    <module>../../../../plexus/components/sec-dispatcher</module>
+    <module>../../../../plexus/components/archiver</module>
+    <module>../../../../plexus/components/cli</module>
+    <module>../../../../plexus/components/digest</module>
+    <module>../../../../plexus/components/interactivity</module>
+    <module>../../../../plexus/components/io</module>
+    <module>../../../../plexus/components/resources</module>
+    <!--module>../../../plexus/components/swizzle</module-->
+    <module>../../../../plexus/components/velocity</module>
   </modules>
 </project>

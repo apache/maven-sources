@@ -24,21 +24,17 @@ under the License.
 
   <parent>
     <groupId>org.apache.maven.aggregator</groupId>
-    <artifactId>plugins</artifactId>
+    <artifactId>maven-aggregator</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>plugins-core</artifactId>
+  <artifactId>sisu</artifactId>
   <packaging>pom</packaging>
 
-  <name>Aggregator POM for Core Plugins</name>
+  <name>Aggregator POM for Sisu</name>
   <modules>
-    <module>../../../plugins/core/maven-clean-plugin</module>
-    <module>../../../plugins/core/maven-compiler-plugin</module>
-    <module>../../../plugins/core/maven-deploy-plugin</module>
-    <module>../../../plugins/core/maven-install-plugin</module>
-    <module>../../../plugins/core/maven-resources-plugin</module>
-    <module>../../../plugins/core/maven-site-plugin</module>
-    <module>../../../plugins/core/surefire</module>
-    <module>../../../plugins/core/maven-verifier-plugin</module>
+    <!--module>../../sisu/sisu</module-->
+    <module>../../../sisu/inject</module>
+    <module>../../../sisu/plexus</module>
+    <module>../../../sisu/mojos</module>
   </modules>
 </project>

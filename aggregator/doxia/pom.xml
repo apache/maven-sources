@@ -27,17 +27,17 @@ under the License.
     <artifactId>maven-aggregator</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>core</artifactId>
+  <artifactId>doxia</artifactId>
   <packaging>pom</packaging>
 
-  <name>Aggregator POM for core</name>
+  <name>Aggregator POM for Doxia</name>
   <modules>
-    <module>../../core/build-cache</module>
-    <module>../../core/maven</module>
-    <module>../../core/mvnd</module>
-    <module>../../core/its</module>
-    <module>../../core/resolver</module>
-    <module>../../core/resolver-ant-tasks</module>
-    <module>../../core/wrapper</module>
+    <module>../../../doxia/doxia</module>
+    <module>../../../doxia/site</module>
+    <module>../../../doxia/sitetools</module>
+    <module>../../../doxia/tools/doxia-book-maven-plugin</module>
+    <module>../../../doxia/tools/doxia-book-renderer</module>
+    <module>../../../doxia/tools/converter</module>
+    <module>../../../doxia/tools/linkcheck</module>
   </modules>
 </project>

@@ -27,18 +27,17 @@ under the License.
     <artifactId>maven-aggregator</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>plexus</artifactId>
+  <artifactId>core</artifactId>
   <packaging>pom</packaging>
 
-  <name>Aggregator POM for Plexus</name>
+  <name>Aggregator POM for core</name>
   <modules>
-    <module>../../plexus/classworlds</module>
-    <module>../../plexus/codehaus-plexus.github.io</module>
-    <module>components</module>
-    <module>../../plexus/modello</module>
-    <module>../../plexus/plexus-containers</module>
-    <module>../../plexus/pom/components</module>
-    <module>../../plexus/pom/plexus</module>
-    <module>../../plexus/utils</module>
+    <module>../../../core/build-cache</module>
+    <module>../../../core/maven</module>
+    <module>../../../core/mvnd</module>
+    <module>../../../core/its</module>
+    <module>../../../core/resolver</module>
+    <module>../../../core/resolver-ant-tasks</module>
+    <module>../../../core/wrapper</module>
   </modules>
 </project>
