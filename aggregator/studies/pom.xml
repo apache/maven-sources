@@ -38,6 +38,5 @@ under the License.
     <module>../../../studies/maven-default-plugins</module>
     <module>../../../studies/maven-eventsound-extension</module>
     <module>../../../studies/maven-extension-demo</module>
-    <module>../../../studies/maven-xml</module>
   </modules>
 </project>
