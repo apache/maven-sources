@@ -141,6 +141,10 @@
   <project path='studies/maven-eventsound-extension'        name='maven-studies.git' revision="maven-eventsound-extension" />
   <project path='studies/maven-extension-demo'              name='maven-studies.git' revision="maven-extension-demo" />
 
+  <project path='studies/DOXIA-569/aggregator'              name='maven-studies.git' revision="DOXIA-569" />
+  <project path='studies/DOXIA-569/doxia'                   name='doxia.git' revision="DOXIA-569" />
+  <project path='studies/DOXIA-569/maven-reporting-impl'    name='maven-reporting-impl.git' revision="DOXIA-569" />
+
   <project path='svn/resources'                             name='maven-resources.git'           remote='svn2git' revision='trunk' />
   <project path='svn/repository-tools'                      name='maven-repository-tools.git'    remote='svn2git' revision='trunk' />
   <project path='svn/sandbox'                               name='maven-sandbox.git'             remote='svn2git' revision='trunk' />
