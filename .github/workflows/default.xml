@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+  ~ Licensed to the Apache Software Foundation (ASF) under one
+  ~ or more contributor license agreements. See the NOTICE file
+  ~ distributed with this work for additional information
+  ~ regarding copyright ownership. The ASF licenses this file
+  ~ to you under the Apache License, Version 2.0 (the
+  ~ "License"); you may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing,
+  ~ software distributed under the License is distributed on an
+  ~ "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+  ~ KIND, either express or implied. See the License for the
+  ~ specific language governing permissions and limitations
+  ~ under the License.
+-->
+<manifest>
+  <remote name='origin'  fetch='https://gitbox.apache.org/repos/asf' />
+  <remote name='plexus'  fetch='https://github.com/codehaus-plexus' />
+  <remote name='svn2git' fetch='https://github.com/apache' />
+  <remote name='sisu'    fetch='https://github.com/eclipse' />
+  <default revision='master' remote='origin' sync-j='8' />
+
+  <project path='site'                                      name='maven-site.git' />
+  <project path='sources'                                   name='maven-sources.git' />
+
+  <project path='core/build-cache'                          name='maven-build-cache-extension.git' />
+  <project path='core/maven'                                name='maven.git' />
+  <project path='core/maven-3'                              name='maven.git' revision="maven-3.9.x" />
+  <project path='core/mvnd'                                 name='maven-mvnd.git' />
+  <project path='core/its'                                  name='maven-integration-testing.git' />
+  <project path='core/resolver'                             name='maven-resolver.git' />
+  <project path='core/resolver-ant-tasks'                   name='maven-resolver-ant-tasks.git' />
+  <project path='core/wrapper'                              name='maven-wrapper.git' />
+
+  <project path='plugins/core/maven-clean-plugin'           name='maven-clean-plugin.git' />
+  <project path='plugins/core/maven-compiler-plugin'        name='maven-compiler-plugin.git' />
+  <project path='plugins/core/maven-deploy-plugin'          name='maven-deploy-plugin.git' />
+  <project path='plugins/core/maven-install-plugin'         name='maven-install-plugin.git' />
+  <project path='plugins/core/maven-resources-plugin'       name='maven-resources-plugin.git' />
+  <project path='plugins/core/maven-site-plugin'            name='maven-site-plugin.git' />
+  <project path='plugins/core/surefire'                     name='maven-surefire.git' />
+  <project path='plugins/core/maven-verifier-plugin'        name='maven-verifier-plugin.git' />
+
+  <project path='plugins/packaging/maven-ear-plugin'        name='maven-ear-plugin.git' />
+  <project path='plugins/packaging/maven-ejb-plugin'        name='maven-ejb-plugin.git' />
+  <project path='plugins/packaging/maven-jar-plugin'        name='maven-jar-plugin.git' />
+  <project path='plugins/packaging/maven-rar-plugin'        name='maven-rar-plugin.git' />
+  <project path='plugins/packaging/maven-war-plugin'        name='maven-war-plugin.git' />
+  <project path='plugins/packaging/maven-acr-plugin'        name='maven-acr-plugin.git' />
+  <project path='plugins/packaging/maven-shade-plugin'      name='maven-shade-plugin.git' />
+  <project path='plugins/packaging/maven-source-plugin'     name='maven-source-plugin.git' />
+  <project path='plugins/packaging/maven-jlink-plugin'      name='maven-jlink-plugin.git' />
+  <project path='plugins/packaging/maven-jmod-plugin'       name='maven-jmod-plugin.git' />
+
+  <project path='plugins/reporting/maven-changelog-plugin'  name='maven-changelog-plugin.git' />
+  <project path='plugins/reporting/maven-changes-plugin'    name='maven-changes-plugin.git' />
+  <project path='plugins/reporting/maven-checkstyle-plugin' name='maven-checkstyle-plugin.git' />
+  <project path='plugins/reporting/maven-doap-plugin'       name='maven-doap-plugin.git' />
+  <project path='plugins/reporting/maven-docck-plugin'      name='maven-docck-plugin.git' />
+  <project path='plugins/reporting/maven-javadoc-plugin'    name='maven-javadoc-plugin.git' />
+  <project path='plugins/reporting/maven-jdeps-plugin'      name='maven-jdeps-plugin.git' />
+  <project path='plugins/reporting/jxr'                     name='maven-jxr.git' />
+  <project path='plugins/reporting/maven-linkcheck-plugin'  name='maven-linkcheck-plugin.git' />
+  <project path='plugins/reporting/maven-pmd-plugin'        name='maven-pmd-plugin.git' />
+  <project path='plugins/reporting/maven-project-info-reports-plugin' name='maven-project-info-reports-plugin.git' />
+
+  <project path='plugins/tools/maven-antrun-plugin'         name='maven-antrun-plugin.git' />
+  <project path='plugins/tools/archetype'                   name='maven-archetype.git' />
+  <project path='plugins/tools/maven-artifact-plugin'       name='maven-artifact-plugin.git' />
+  <project path='plugins/tools/maven-assembly-plugin'       name='maven-assembly-plugin.git' />
+  <project path='plugins/tools/maven-dependency-plugin'     name='maven-dependency-plugin.git' />
+  <project path='plugins/tools/enforcer'                    name='maven-enforcer.git' />
+  <project path='plugins/tools/maven-gpg-plugin'            name='maven-gpg-plugin.git' />
+  <project path='plugins/tools/maven-help-plugin'           name='maven-help-plugin.git' />
+  <project path='plugins/tools/maven-invoker-plugin'        name='maven-invoker-plugin.git' />
+  <project path='plugins/tools/maven-jarsigner-plugin'      name='maven-jarsigner-plugin.git' />
+  <project path='plugins/tools/maven-jdeprscan-plugin'      name='maven-jdeprscan-plugin.git' />
+  <project path='plugins/tools/maven-patch-plugin'          name='maven-patch-plugin.git' />
+  <project path='plugins/tools/maven-pdf-plugin'            name='maven-pdf-plugin.git' />
+  <project path='plugins/tools/plugin-tools'                name='maven-plugin-tools.git' />
+  <project path='plugins/tools/release'                     name='maven-release.git' />
+  <project path='plugins/tools/maven-remote-resources-plugin' name='maven-remote-resources-plugin.git' />
+  <project path='plugins/tools/scm'                         name='maven-scm.git' />
+  <project path='plugins/tools/maven-scm-publish-plugin'    name='maven-scm-publish-plugin.git' />
+  <project path='plugins/tools/maven-scripting-plugin'      name='maven-scripting-plugin.git' />
+  <project path='plugins/tools/maven-stage-plugin'          name='maven-stage-plugin.git' />
+  <project path='plugins/tools/maven-toolchains-plugin'     name='maven-toolchains-plugin.git' />
+
+  <project path='shared/archiver'                           name='maven-archiver.git' />
+  <project path='shared/artifact-transfer'                  name='maven-artifact-transfer.git' />
+  <project path='shared/common-artifact-filters'            name='maven-common-artifact-filters.git' />
+  <project path='shared/dependency-analyzer'                name='maven-dependency-analyzer.git' />
+  <project path='shared/dependency-tree'                    name='maven-dependency-tree.git' />
+  <project path='shared/file-management'                    name='maven-file-management.git' />
+  <project path='shared/filtering'                          name='maven-filtering.git' />
+  <project path='shared/invoker'                            name='maven-invoker.git' />
+  <project path='shared/jarsigner'                          name='maven-jarsigner.git' />
+  <project path='shared/mapping'                            name='maven-mapping.git' />
+  <project path='shared/project-utils'                      name='maven-project-utils.git' />
+  <project path='shared/reporting-api'                      name='maven-reporting-api.git' />
+  <project path='shared/reporting-exec'                     name='maven-reporting-exec.git' />
+  <project path='shared/reporting-impl'                     name='maven-reporting-impl.git' />
+  <project path='shared/script-interpreter'                 name='maven-script-interpreter.git' />
+  <project path='shared/shared-incremental'                 name='maven-shared-incremental.git' />
+  <project path='shared/shared-io'                          name='maven-shared-io.git' />
+  <project path='shared/shared-jar'                         name='maven-shared-jar.git' />
+  <project path='shared/shared-resources'                   name='maven-shared-resources.git' />
+  <project path='shared/shared-utils'                       name='maven-shared-utils.git' />
+  <project path='shared/verifier'                           name='maven-verifier.git' />
+
+  <project path='doxia/doxia'                               name='maven-doxia.git' />
+  <project path='doxia/site'                                name='maven-doxia-site.git' />
+  <project path='doxia/sitetools'                           name='maven-doxia-sitetools.git' />
+  <project path='doxia/tools/doxia-book-maven-plugin'       name='maven-doxia-book-maven-plugin.git' />
+  <project path='doxia/tools/doxia-book-renderer'           name='maven-doxia-book-renderer.git' />
+  <project path='doxia/tools/converter'                     name='maven-doxia-converter.git' />
+  <project path='doxia/tools/linkcheck'                     name='maven-doxia-linkcheck.git' />
+
+  <project path='misc/archetypes'                           name='maven-archetypes.git' />
+  <project path='misc/pom/maven'                            name='maven-parent.git' />
+  <project path='misc/pom/apache'                           name='maven-apache-parent.git' />
+  <project path='misc/skins/default'                        name='maven-default-skin.git' />
+  <project path='misc/skins/fluido'                         name='maven-fluido-skin.git' />
+  <project path='misc/dist-tool'                            name='maven-dist-tool.git' />
+  <project path='misc/gh-actions-shared'                    name='maven-gh-actions-shared.git' revision="main" />
+  <project path='misc/jenkins/env'                          name='maven-jenkins-env.git' />
+  <project path='misc/jenkins/lib'                          name='maven-jenkins-lib.git' />
+  <project path='misc/indexer'                              name='maven-indexer.git' />
+  <project path='misc/plugin-testing'                       name='maven-plugin-testing.git' />
+  <project path='misc/wagon'                                name='maven-wagon.git' />
+
+  <project path='studies/master'                            name='maven-studies.git' />
+  <project path='studies/consumer-pom'                      name='maven-studies.git' revision="consumer-pom" />
+  <project path='studies/maven-basedir-filesystem'          name='maven-studies.git' revision="maven-basedir-filesystem" />
+  <project path='studies/maven-ci-extension'                name='maven-studies.git' revision="maven-ci-extension" />
+  <project path='studies/maven-default-plugins'             name='maven-studies.git' revision="maven-default-plugins" />
+  <project path='studies/maven-eventsound-extension'        name='maven-studies.git' revision="maven-eventsound-extension" />
+  <project path='studies/maven-extension-demo'              name='maven-studies.git' revision="maven-extension-demo" />
+
+  <project path='svn/resources'                             name='maven-resources.git'           remote='svn2git' revision='trunk' />
+  <project path='svn/repository-tools'                      name='maven-repository-tools.git'    remote='svn2git' revision='trunk' />
+  <project path='svn/sandbox'                               name='maven-sandbox.git'             remote='svn2git' revision='trunk' />
+  <project path='svn/doxia-ide'                             name='maven-doxia-ide.git'           remote='svn2git' revision='trunk' />
+
+  <project path='plexus/codehaus-plexus.github.io'          name='codehaus-plexus.github.io.git' remote='plexus' revision='source' />
+  <project path='plexus/modello'                            name='modello.git'                   remote='plexus' />
+  <project path='plexus/classworlds'                        name='plexus-classworlds.git'        remote='plexus' />
+  <project path='plexus/components/archiver'                name='plexus-archiver.git'           remote='plexus' />
+  <project path='plexus/components/cipher'                  name='plexus-cipher.git'             remote='plexus' />
+  <project path='plexus/components/cli'                     name='plexus-cli.git'                remote='plexus' />
+  <project path='plexus/components/compiler'                name='plexus-compiler.git'           remote='plexus' />
+  <project path='plexus/components/digest'                  name='plexus-digest.git'             remote='plexus' />
+  <project path='plexus/components/i18n'                    name='plexus-i18n.git'               remote='plexus' />
+  <project path='plexus/components/interactivity'           name='plexus-interactivity.git'      remote='plexus' />
+  <project path='plexus/components/interpolation'           name='plexus-interpolation.git'      remote='plexus' />
+  <project path='plexus/components/io'                      name='plexus-io.git'                 remote='plexus' />
+  <project path='plexus/components/languages'               name='plexus-languages.git'          remote='plexus' />
+  <project path='plexus/components/resources'               name='plexus-resources.git'          remote='plexus' />
+  <project path='plexus/components/sec-dispatcher'          name='plexus-sec-dispatcher.git'     remote='plexus' />
+  <project path='plexus/components/swizzle'                 name='plexus-swizzle.git'            remote='plexus' />
+  <project path='plexus/components/velocity'                name='plexus-velocity.git'           remote='plexus' />
+  <project path='plexus/plexus-containers'                  name='plexus-containers.git'         remote='plexus' />
+  <project path='plexus/pom/components'                     name='plexus-components.git'         remote='plexus' />
+  <project path='plexus/pom/plexus'                         name='plexus-pom.git'                remote='plexus' />
+  <project path='plexus/utils'                              name='plexus-utils.git'              remote='plexus' />
+
+  <project path='sisu/inject'                               name='sisu.inject.git'               remote='sisu' />
+  <project path='sisu/plexus'                               name='sisu.plexus.git'               remote='sisu' />
+  <project path='sisu/mojos'                                name='sisu.mojos.git'                remote='sisu' />
+</manifest>
