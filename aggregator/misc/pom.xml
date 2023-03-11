@@ -38,6 +38,7 @@ under the License.
     <!-- not a module: jenkins -->
     <module>../../../misc/plugin-testing</module>
     <module>../../../misc/pom/apache</module>
+    <module>../../../misc/pom/apache-resources</module>
     <module>../../../misc/pom/maven</module>
     <module>../../../misc/skins/default</module>
     <module>../../../misc/skins/fluido</module>

@@ -123,6 +123,7 @@
   <project path='misc/archetypes'                           name='maven-archetypes.git' />
   <project path='misc/pom/maven'                            name='maven-parent.git' />
   <project path='misc/pom/apache'                           name='maven-apache-parent.git' />
+  <project path='misc/pom/apache-resources'                 name='maven-apache-resources.git' />
   <project path='misc/skins/default'                        name='maven-default-skin.git' />
   <project path='misc/skins/fluido'                         name='maven-fluido-skin.git' />
   <project path='misc/dist-tool'                            name='maven-dist-tool.git' />
@@ -141,7 +142,6 @@
   <project path='studies/maven-eventsound-extension'        name='maven-studies.git' revision="maven-eventsound-extension" />
   <project path='studies/maven-extension-demo'              name='maven-studies.git' revision="maven-extension-demo" />
 
-  <project path='svn/resources'                             name='maven-resources.git'           remote='svn2git' revision='trunk' />
   <project path='svn/repository-tools'                      name='maven-repository-tools.git'    remote='svn2git' revision='trunk' />
   <project path='svn/sandbox'                               name='maven-sandbox.git'             remote='svn2git' revision='trunk' />
   <project path='svn/doxia-ide'                             name='maven-doxia-ide.git'           remote='svn2git' revision='trunk' />
