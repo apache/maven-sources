@@ -18,7 +18,7 @@
   ~ under the License.
 -->
 <manifest>
-  <remote name='origin'  fetch='https://gitbox.apache.org/repos/asf' />
+  <remote name='origin'  fetch='https://github.com/apache' />
   <remote name='plexus'  fetch='https://github.com/codehaus-plexus' />
   <remote name='svn2git' fetch='https://github.com/apache' />
   <remote name='sisu'    fetch='https://github.com/eclipse' />
@@ -142,9 +142,9 @@
   <project path='studies/maven-eventsound-extension'        name='maven-studies.git' revision="maven-eventsound-extension" />
   <project path='studies/maven-extension-demo'              name='maven-studies.git' revision="maven-extension-demo" />
 
-  <project path='svn/repository-tools'                      name='maven-repository-tools.git'    remote='svn2git' revision='trunk' />
-  <project path='svn/sandbox'                               name='maven-sandbox.git'             remote='svn2git' revision='trunk' />
-  <project path='svn/doxia-ide'                             name='maven-doxia-ide.git'           remote='svn2git' revision='trunk' />
+  <project path='svn/repository-tools'                      name='maven-repository-tools.git'    revision='trunk' />
+  <project path='svn/sandbox'                               name='maven-sandbox.git'             revision='trunk' />
+  <project path='svn/doxia-ide'                             name='maven-doxia-ide.git'           revision='trunk' />
 
   <project path='plexus/codehaus-plexus.github.io'          name='codehaus-plexus.github.io.git' remote='plexus' revision='source' />
   <project path='plexus/modello'                            name='modello.git'                   remote='plexus' />
