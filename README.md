@@ -41,6 +41,7 @@ Resulting directory tree looks like:
 |   |-- plugin-testing
 |   |-- pom
 |   |   |-- apache
+|   |   |-- apache-resources
 |   |   `-- maven
 |   |-- skins
 |   |   |-- default
@@ -67,7 +68,8 @@ Resulting directory tree looks like:
 |   |-- modello
 |   |-- plexus-containers
 |   |-- pom
-|   `-- utils
+|   |-- utils
+|   `-- xml
 |-- plugins
 |   |-- core
 |   |   |-- maven-clean-plugin
@@ -156,7 +158,6 @@ Resulting directory tree looks like:
 `-- svn
     |-- doxia-ide
     |-- repository-tools
-    |-- resources
     `-- sandbox
 ```
 
