@@ -166,9 +166,9 @@
   <project path='plexus/plexus-containers'                  name='plexus-containers.git'         remote='plexus' />
   <project path='plexus/pom/components'                     name='plexus-components.git'         remote='plexus' />
   <project path='plexus/pom/plexus'                         name='plexus-pom.git'                remote='plexus' />
+  <project path='plexus/testing'                            name='plexus-testing.git'            remote='plexus' />
   <project path='plexus/utils'                              name='plexus-utils.git'              remote='plexus' />
   <project path='plexus/xml'                                name='plexus-xml.git'                remote='plexus' />
-
   <project path='sisu/inject'                               name='sisu.inject.git'               remote='sisu' />
   <project path='sisu/plexus'                               name='sisu.plexus.git'               remote='sisu' />
   <project path='sisu/mojos'                                name='sisu.mojos.git'                remote='sisu' />
