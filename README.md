@@ -64,6 +64,7 @@ Resulting directory tree looks like:
 |   |   |-- resources
 |   |   |-- sec-dispatcher
 |   |   |-- swizzle
+|   |   |-- testing
 |   |   `-- velocity
 |   |-- modello
 |   |-- plexus-containers
