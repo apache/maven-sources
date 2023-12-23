@@ -39,7 +39,7 @@ under the License.
     <module>../../../../plexus/components/languages</module>
     <module>../../../../plexus/components/sec-dispatcher</module>
     <module>../../../../plexus/components/archiver</module>
-    <module>../../../../plexus/components/cli</module>
+    <!--<module>../../../../plexus/components/cli</module>-->
     <module>../../../../plexus/components/digest</module>
     <module>../../../../plexus/components/interactivity</module>
     <module>../../../../plexus/components/io</module>

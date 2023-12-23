@@ -53,7 +53,6 @@ Resulting directory tree looks like:
 |   |-- components
 |   |   |-- archiver
 |   |   |-- cipher
-|   |   |-- cli
 |   |   |-- compiler
 |   |   |-- digest
 |   |   |-- i18n
@@ -63,7 +62,6 @@ Resulting directory tree looks like:
 |   |   |-- languages
 |   |   |-- resources
 |   |   |-- sec-dispatcher
-|   |   |-- swizzle
 |   |   |-- testing
 |   |   `-- velocity
 |   |-- modello
