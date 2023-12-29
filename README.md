@@ -96,7 +96,6 @@ Resulting directory tree looks like:
 |   |   |-- maven-changes-plugin
 |   |   |-- maven-checkstyle-plugin
 |   |   |-- maven-doap-plugin
-|   |   |-- maven-docck-plugin
 |   |   |-- maven-javadoc-plugin
 |   |   |-- maven-jdeps-plugin
 |   |   |-- maven-linkcheck-plugin

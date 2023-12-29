@@ -36,7 +36,6 @@ under the License.
     <module>../../../../plugins/reporting/maven-changes-plugin</module>
     <module>../../../../plugins/reporting/maven-checkstyle-plugin</module>
     <module>../../../../plugins/reporting/maven-doap-plugin</module>
-    <module>../../../../plugins/reporting/maven-docck-plugin</module>
     <module>../../../../plugins/reporting/maven-javadoc-plugin</module>
     <module>../../../../plugins/reporting/maven-jdeps-plugin</module>
     <module>../../../../plugins/reporting/jxr</module>
