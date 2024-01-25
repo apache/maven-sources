@@ -60,7 +60,6 @@
   <project path='plugins/reporting/maven-changes-plugin'    name='maven-changes-plugin.git' />
   <project path='plugins/reporting/maven-checkstyle-plugin' name='maven-checkstyle-plugin.git' />
   <project path='plugins/reporting/maven-doap-plugin'       name='maven-doap-plugin.git' />
-  <project path='plugins/reporting/maven-docck-plugin'      name='maven-docck-plugin.git' />
   <project path='plugins/reporting/maven-javadoc-plugin'    name='maven-javadoc-plugin.git' />
   <project path='plugins/reporting/maven-jdeps-plugin'      name='maven-jdeps-plugin.git' />
   <project path='plugins/reporting/jxr'                     name='maven-jxr.git' />

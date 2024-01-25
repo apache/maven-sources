@@ -53,7 +53,6 @@ Resulting directory tree looks like:
 |   |-- components
 |   |   |-- archiver
 |   |   |-- cipher
-|   |   |-- cli
 |   |   |-- compiler
 |   |   |-- digest
 |   |   |-- i18n
@@ -63,7 +62,6 @@ Resulting directory tree looks like:
 |   |   |-- languages
 |   |   |-- resources
 |   |   |-- sec-dispatcher
-|   |   |-- swizzle
 |   |   |-- testing
 |   |   `-- velocity
 |   |-- modello
@@ -98,7 +96,6 @@ Resulting directory tree looks like:
 |   |   |-- maven-changes-plugin
 |   |   |-- maven-checkstyle-plugin
 |   |   |-- maven-doap-plugin
-|   |   |-- maven-docck-plugin
 |   |   |-- maven-javadoc-plugin
 |   |   |-- maven-jdeps-plugin
 |   |   |-- maven-linkcheck-plugin
