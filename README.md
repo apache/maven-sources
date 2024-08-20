@@ -146,9 +146,7 @@ Resulting directory tree looks like:
 |   |-- shared-utils
 |   `-- verifier
 |-- sisu
-|   |-- inject
-|   |-- mojos
-|   `-- plexus
+|   `-- sisu-project
 |-- site
 |-- sources
 |   `-- aggregator

@@ -21,7 +21,7 @@
   <remote name='origin'  fetch='https://github.com/apache' />
   <remote name='plexus'  fetch='https://github.com/codehaus-plexus' />
   <remote name='svn2git' fetch='https://github.com/apache' />
-  <remote name='sisu'    fetch='https://github.com/eclipse' />
+  <remote name='sisu'    fetch='https://github.com/eclipse-sisu' />
   <default revision='master' remote='origin' sync-j='8' />
 
   <project path='site'                                      name='maven-site.git' />
@@ -168,7 +168,5 @@
   <project path='plexus/testing'                            name='plexus-testing.git'            remote='plexus' />
   <project path='plexus/utils'                              name='plexus-utils.git'              remote='plexus' />
   <project path='plexus/xml'                                name='plexus-xml.git'                remote='plexus' />
-  <project path='sisu/inject'                               name='sisu.inject.git'               remote='sisu' />
-  <project path='sisu/plexus'                               name='sisu.plexus.git'               remote='sisu' />
-  <project path='sisu/mojos'                                name='sisu.mojos.git'                remote='sisu' />
+  <project path='sisu/sisu-project'                         name='sisu-project.git'              remote='sisu' />
 </manifest>

@@ -33,8 +33,6 @@ under the License.
   <name>Aggregator POM for Sisu</name>
   <modules>
     <!--module>../../sisu/sisu</module-->
-    <module>../../../sisu/inject</module>
-    <module>../../../sisu/plexus</module>
-    <module>../../../sisu/mojos</module>
+    <module>../../../sisu/sisu-project</module>
   </modules>
 </project>
