@@ -43,7 +43,6 @@ under the License.
     <module>../../../../plugins/tools/maven-invoker-plugin</module>
     <module>../../../../plugins/tools/maven-jarsigner-plugin</module>
     <module>../../../../plugins/tools/maven-jdeprscan-plugin</module>
-    <module>../../../../plugins/tools/maven-patch-plugin</module>
     <module>../../../../plugins/tools/maven-pdf-plugin</module>
     <module>../../../../plugins/tools/plugin-tools</module>
     <module>../../../../plugins/tools/release</module>
