@@ -35,7 +35,6 @@ under the License.
     <module>../../../core/build-cache</module>
     <module>../../../core/maven</module>
     <module>../../../core/mvnd</module>
-    <module>../../../core/its</module>
     <module>../../../core/resolver</module>
     <module>../../../core/resolver-ant-tasks</module>
     <module>../../../core/wrapper</module>
