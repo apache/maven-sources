@@ -32,7 +32,7 @@ under the License.
 
   <name>Aggregator POM for artifacts still in SVN</name>
   <modules>
-    <module>../../../svn/repository-tools</module>
+    <!--<module>../../../svn/repository-tools</module>-->
     <!--module>../../svn/sandbox</module-->
     <!--module>../../svn/doxia-ide/eclipse/doxia-osgi</module>
     <module>../../../svn/doxia-ide/eclipse/eclipse-plugins</module-->
