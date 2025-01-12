@@ -32,11 +32,8 @@ under the License.
 
   <name>Aggregator POM for Maven Studies</name>
   <modules>
-    <module>../../../studies/consumer-pom</module>
     <module>../../../studies/maven-basedir-filesystem</module>
     <module>../../../studies/maven-ci-extension</module>
     <module>../../../studies/maven-default-plugins</module>
-    <module>../../../studies/maven-eventsound-extension</module>
-    <module>../../../studies/maven-extension-demo</module>
   </modules>
 </project>
