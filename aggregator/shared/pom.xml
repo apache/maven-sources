@@ -41,7 +41,6 @@ under the License.
     <module>../../../shared/invoker</module>
     <module>../../../shared/jarsigner</module>
     <module>../../../shared/mapping</module>
-    <module>../../../shared/project-utils</module>
     <module>../../../shared/reporting-api</module>
     <module>../../../shared/reporting-exec</module>
     <module>../../../shared/reporting-impl</module>
