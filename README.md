@@ -113,7 +113,6 @@ Resulting directory tree looks like:
 |       |-- maven-invoker-plugin
 |       |-- maven-jarsigner-plugin
 |       |-- maven-jdeprscan-plugin
-|       |-- maven-pdf-plugin
 |       |-- maven-remote-resources-plugin
 |       |-- maven-scm-publish-plugin
 |       |-- maven-scripting-plugin
