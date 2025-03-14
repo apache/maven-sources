@@ -78,7 +78,6 @@
   <project path='plugins/tools/maven-invoker-plugin'        name='maven-invoker-plugin.git' />
   <project path='plugins/tools/maven-jarsigner-plugin'      name='maven-jarsigner-plugin.git' />
   <project path='plugins/tools/maven-jdeprscan-plugin'      name='maven-jdeprscan-plugin.git' />
-  <project path='plugins/tools/maven-pdf-plugin'            name='maven-pdf-plugin.git' />
   <project path='plugins/tools/plugin-tools'                name='maven-plugin-tools.git' />
   <project path='plugins/tools/release'                     name='maven-release.git' />
   <project path='plugins/tools/maven-remote-resources-plugin' name='maven-remote-resources-plugin.git' />
