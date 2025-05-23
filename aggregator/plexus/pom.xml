@@ -36,8 +36,6 @@ under the License.
     <module>../../../plexus/codehaus-plexus.github.io</module>
     <module>components</module>
     <module>../../../plexus/modello</module>
-    <module>../../../plexus/plexus-containers</module>
-    <module>../../../plexus/pom/components</module>
     <module>../../../plexus/pom/plexus</module>
     <module>../../../plexus/utils</module>
     <module>../../../plexus/xml</module>
