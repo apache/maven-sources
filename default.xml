@@ -143,9 +143,7 @@
   <project path='plexus/classworlds'                        name='plexus-classworlds.git'        remote='plexus' />
   <project path='plexus/components/archiver'                name='plexus-archiver.git'           remote='plexus' />
   <project path='plexus/components/cipher'                  name='plexus-cipher.git'             remote='plexus' />
-  <project path='plexus/components/cli'                     name='plexus-cli.git'                remote='plexus' />
   <project path='plexus/components/compiler'                name='plexus-compiler.git'           remote='plexus' />
-  <project path='plexus/components/digest'                  name='plexus-digest.git'             remote='plexus' />
   <project path='plexus/components/i18n'                    name='plexus-i18n.git'               remote='plexus' />
   <project path='plexus/components/interactivity'           name='plexus-interactivity.git'      remote='plexus' />
   <project path='plexus/components/interpolation'           name='plexus-interpolation.git'      remote='plexus' />

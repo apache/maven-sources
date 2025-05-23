@@ -32,11 +32,12 @@ under the License.
 
   <name>Aggregator POM for Plexus</name>
   <modules>
-    <module>../../../plexus/classworlds</module>
     <module>../../../plexus/codehaus-plexus.github.io</module>
-    <module>components</module>
     <module>../../../plexus/modello</module>
+    <module>../../../plexus/classworlds</module>
+    <module>components</module>
     <module>../../../plexus/pom/plexus</module>
+    <module>../../../plexus/testing</module>
     <module>../../../plexus/utils</module>
     <module>../../../plexus/xml</module>
   </modules>

@@ -15,7 +15,7 @@ repo sync
 repo start master --all
 ```
 
-Resulting directory tree looks like:
+The resulting directory tree looks like:
 
 ```
 |-- core
@@ -32,12 +32,18 @@ Resulting directory tree looks like:
 |   |-- site
 |   |-- sitetools
 |   `-- tools
+|       |-- converter
+|       |-- doxia-book-maven-plugin
+|       |-- doxia-book-renderer
+|       `-- linkcheck
 |-- misc
 |   |-- archetypes
 |   |-- dist-tool
 |   |-- gh-actions-shared
 |   |-- indexer
 |   |-- jenkins
+|   |   |-- env
+|   |   `-- lib
 |   |-- plugin-testing
 |   |-- pom
 |   |   |-- apache
@@ -48,13 +54,13 @@ Resulting directory tree looks like:
 |   |   `-- fluido
 |   `-- wagon
 |-- plexus
+|   |-- .github
 |   |-- classworlds
 |   |-- codehaus-plexus.github.io
 |   |-- components
 |   |   |-- archiver
 |   |   |-- cipher
 |   |   |-- compiler
-|   |   |-- digest
 |   |   |-- i18n
 |   |   |-- interactivity
 |   |   |-- interpolation
@@ -62,12 +68,13 @@ Resulting directory tree looks like:
 |   |   |-- languages
 |   |   |-- resources
 |   |   |-- sec-dispatcher
-|   |   |-- testing
 |   |   `-- velocity
 |   |-- modello
 |   |-- plexus-containers
 |   |-- pom
+|   |   `-- plexus
 |   |-- utils
+|   |-- testing
 |   `-- xml
 |-- plugins
 |   |-- core
@@ -123,7 +130,6 @@ Resulting directory tree looks like:
 |       `-- scm
 |-- shared
 |   |-- archiver
-|   |-- artifact-transfer
 |   |-- common-artifact-filters
 |   |-- dependency-analyzer
 |   |-- dependency-tree
@@ -132,7 +138,6 @@ Resulting directory tree looks like:
 |   |-- invoker
 |   |-- jarsigner
 |   |-- mapping
-|   |-- project-utils
 |   |-- reporting-api
 |   |-- reporting-exec
 |   |-- reporting-impl
@@ -148,11 +153,16 @@ Resulting directory tree looks like:
 |-- site
 |-- sources
 |   `-- aggregator
-|-- studies
-`-- svn
-    |-- doxia-ide
-    |-- repository-tools
-    `-- sandbox
+`-- studies
+    |-- consumer-pom
+    |-- master
+    |-- maven-basedir-filesystem
+    |-- maven-ci-extension
+    |-- maven-default-plugins
+    |-- maven-eventsound-extension
+    `-- maven-extension-demo
+
+
 ```
 
 Then simply use the content in this tree with normal `git` commands.
