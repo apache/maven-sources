@@ -137,6 +137,7 @@
   <project path='studies/maven-eventsound-extension'        name='maven-studies.git' revision="maven-eventsound-extension" />
   <project path='studies/maven-extension-demo'              name='maven-studies.git' revision="maven-extension-demo" />
 
+  <project path='plexus/.github'                            name='.github.git'                   remote='plexus' />
   <project path='plexus/codehaus-plexus.github.io'          name='codehaus-plexus.github.io.git' remote='plexus' revision='source' />
   <project path='plexus/modello'                            name='modello.git'                   remote='plexus' />
   <project path='plexus/classworlds'                        name='plexus-classworlds.git'        remote='plexus' />
