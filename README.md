@@ -1,9 +1,9 @@
 # Apache Maven Sources
 
-Manifest to fetch every [Apache Maven](https://maven.apache.org) git repositories using [Google repo](https://source.android.com/source/using-repo): [`default.xml` file](default.xml) configures the
+Manifest to fetch every [Apache Maven Sources](https://maven.apache.org/scm.html) Git repositories using [Google repo](https://source.android.com/source/using-repo): [`default.xml` file](default.xml) configures the
 directory structure where the different Git repositories will be put.
 
-In addition, an aggregator build structure is provided to build everything as one aggregated build.
+In addition, an [`aggregator`](aggregator/) build structure is provided to build everything as one aggregated build.
 
 ## Bootstrapping Basics
 
