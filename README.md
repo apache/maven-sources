@@ -24,7 +24,9 @@ Resulting directory tree looks like:
 |   |-- maven
 |   |-- maven-3
 |   |-- mvnd
+|   |-- mvnd-1
 |   |-- resolver
+|   |-- resolver-1
 |   |-- resolver-ant-tasks
 |   `-- wrapper
 |-- doxia
