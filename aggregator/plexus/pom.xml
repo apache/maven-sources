@@ -39,6 +39,7 @@ under the License.
     <module>../../../plexus/plexus-containers</module>
     <module>../../../plexus/pom/components</module>
     <module>../../../plexus/pom/plexus</module>
+    <module>../../../plexus/testing</module>
     <module>../../../plexus/utils</module>
     <module>../../../plexus/xml</module>
   </modules>
