@@ -38,5 +38,6 @@ under the License.
     <module>../../../core/resolver</module>
     <module>../../../core/resolver-ant-tasks</module>
     <module>../../../core/wrapper</module>
+    <!--module>3.x</module-->
   </modules>
 </project>
