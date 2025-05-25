@@ -34,12 +34,18 @@ Resulting directory tree looks like:
 |   |-- site
 |   |-- sitetools
 |   `-- tools
+|       |-- converter
+|       |-- doxia-book-maven-plugin
+|       |-- doxia-book-renderer
+|       `-- linkcheck
 |-- misc
 |   |-- archetypes
 |   |-- dist-tool
 |   |-- gh-actions-shared
 |   |-- indexer
 |   |-- jenkins
+|   |   |-- env
+|   |   `-- lib
 |   |-- plugin-testing
 |   |-- pom
 |   |   |-- apache
@@ -69,7 +75,9 @@ Resulting directory tree looks like:
 |   |-- modello
 |   |-- plexus-containers
 |   |-- pom
+|   |   `-- plexus
 |   |-- utils
+|   |-- testing
 |   `-- xml
 |-- plugins
 |   |-- core
@@ -150,11 +158,14 @@ Resulting directory tree looks like:
 |-- site
 |-- sources
 |   `-- aggregator
-|-- studies
-`-- svn
-    |-- doxia-ide
-    |-- repository-tools
-    `-- sandbox
+`-- studies
+    |-- consumer-pom
+    |-- master
+    |-- maven-basedir-filesystem
+    |-- maven-ci-extension
+    |-- maven-default-plugins
+    |-- maven-eventsound-extension
+    `-- maven-extension-demo
 ```
 
 Then simply use the content in this tree with normal `git` commands.
