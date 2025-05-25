@@ -146,6 +146,7 @@
   <project path='svn/doxia-ide'                             name='maven-doxia-ide.git'           revision='trunk' />
 
   <project path='plexus/codehaus-plexus.github.io'          name='codehaus-plexus.github.io.git' remote='plexus' revision='source' />
+  <project path='plexus/.github'                            name='.github.git'                   remote='plexus' />
   <project path='plexus/modello'                            name='modello.git'                   remote='plexus' />
   <project path='plexus/classworlds'                        name='plexus-classworlds.git'        remote='plexus' />
   <project path='plexus/components/archiver'                name='plexus-archiver.git'           remote='plexus' />
