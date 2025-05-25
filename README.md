@@ -89,6 +89,13 @@ Resulting directory tree looks like:
 |   |   |-- maven-site-plugin
 |   |   |-- maven-verifier-plugin
 |   |   `-- surefire
+|   |-- core-4
+|   |   |-- maven-clean-plugin
+|   |   |-- maven-compiler-plugin
+|   |   |-- maven-deploy-plugin
+|   |   |-- maven-install-plugin
+|   |   |-- maven-resources-plugin
+|   |   |-- maven-site-plugin
 |   |-- packaging
 |   |   |-- maven-acr-plugin
 |   |   |-- maven-ear-plugin
@@ -100,6 +107,8 @@ Resulting directory tree looks like:
 |   |   |-- maven-shade-plugin
 |   |   |-- maven-source-plugin
 |   |   `-- maven-war-plugin
+|   |-- packaging-4
+|   |   `-- maven-source-plugin
 |   |-- reporting
 |   |   |-- jxr
 |   |   |-- maven-changelog-plugin
