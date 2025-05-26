@@ -33,7 +33,9 @@ under the License.
   <name>Aggregator POM for Plugins</name>
   <modules>
     <module>core</module>
+    <!--module>core-4</module-->
     <module>packaging</module>
+    <!--module>packaging-4</module-->
     <module>reporting</module>
     <module>tools</module>
   </modules>
