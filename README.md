@@ -20,15 +20,16 @@ Resulting directory tree looks like:
 ```
 |-- core
 |   |-- build-cache
-|   |-- its
 |   |-- maven
-|   |-- maven-3
 |   |-- mvnd
-|   |-- mvnd-1
 |   |-- resolver
-|   |-- resolver-1
 |   |-- resolver-ant-tasks
-|   `-- wrapper
+|   |-- wrapper
+|   `-- 3.x
+|       |-- its
+|       |-- maven-3
+|       |-- mvnd-1
+|       `-- resolver-1
 |-- doxia
 |   |-- doxia
 |   |-- site

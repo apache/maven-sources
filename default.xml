@@ -29,14 +29,14 @@
 
   <project path='core/build-cache'                          name='maven-build-cache-extension.git' />
   <project path='core/maven'                                name='maven.git' />
-  <project path='core/maven-3'                              name='maven.git' revision="maven-3.9.x" />
   <project path='core/mvnd'                                 name='maven-mvnd.git' />
-  <project path='core/mvnd-1'                               name='maven-mvnd.git' revision="mvnd-1.x" />
-  <project path='core/its'                                  name='maven-integration-testing.git' />
   <project path='core/resolver'                             name='maven-resolver.git' />
-  <project path='core/resolver-1'                           name='maven-resolver.git' revision="maven-resolver-1.9.x" />
   <project path='core/resolver-ant-tasks'                   name='maven-resolver-ant-tasks.git' />
   <project path='core/wrapper'                              name='maven-wrapper.git' />
+  <project path='core/3.x/maven-3'                          name='maven.git' revision="maven-3.9.x" />
+  <project path='core/3.x/mvnd-1'                           name='maven-mvnd.git' revision="mvnd-1.x" />
+  <project path='core/3.x/resolver-1'                       name='maven-resolver.git' revision="maven-resolver-1.9.x" />
+  <project path='core/3.x/its-3'                            name='maven-integration-testing.git' revision="maven-3.9.x" />
 
   <project path='plugins/core/maven-clean-plugin'           name='maven-clean-plugin.git' />
   <project path='plugins/core/maven-compiler-plugin'        name='maven-compiler-plugin.git' />
