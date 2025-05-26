@@ -162,6 +162,8 @@ Resulting directory tree looks like:
 |   |-- shared-resources
 |   |-- shared-utils
 |   `-- verifier
+|-- shared-4
+|   |-- filtering
 |-- sisu
 |   `-- sisu-project
 |-- site

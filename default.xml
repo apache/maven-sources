@@ -105,7 +105,7 @@
   <project path='shared/dependency-analyzer'                name='maven-dependency-analyzer.git' />
   <project path='shared/dependency-tree'                    name='maven-dependency-tree.git' />
   <project path='shared/file-management'                    name='maven-file-management.git' />
-  <project path='shared/filtering'                          name='maven-filtering.git' />
+  <project path='shared/filtering'                          name='maven-filtering.git' revision="maven-filtering-3.x" />
   <project path='shared/invoker'                            name='maven-invoker.git' />
   <project path='shared/jarsigner'                          name='maven-jarsigner.git' />
   <project path='shared/mapping'                            name='maven-mapping.git' />
@@ -120,6 +120,8 @@
   <project path='shared/shared-resources'                   name='maven-shared-resources.git' />
   <project path='shared/shared-utils'                       name='maven-shared-utils.git' />
   <project path='shared/verifier'                           name='maven-verifier.git' />
+
+  <project path='shared-4/filtering'                          name='maven-filtering.git' />
 
   <project path='doxia/doxia'                               name='maven-doxia.git' />
   <project path='doxia/site'                                name='maven-doxia-site.git' />
