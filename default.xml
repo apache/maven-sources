@@ -90,7 +90,6 @@
   <project path='plugins/tools/maven-toolchains-plugin'     name='maven-toolchains-plugin.git' />
 
   <project path='shared/archiver'                           name='maven-archiver.git' />
-  <project path='shared/artifact-transfer'                  name='maven-artifact-transfer.git' />
   <project path='shared/common-artifact-filters'            name='maven-common-artifact-filters.git' />
   <project path='shared/dependency-analyzer'                name='maven-dependency-analyzer.git' />
   <project path='shared/dependency-tree'                    name='maven-dependency-tree.git' />
@@ -99,7 +98,6 @@
   <project path='shared/invoker'                            name='maven-invoker.git' />
   <project path='shared/jarsigner'                          name='maven-jarsigner.git' />
   <project path='shared/mapping'                            name='maven-mapping.git' />
-  <project path='shared/project-utils'                      name='maven-project-utils.git' />
   <project path='shared/reporting-api'                      name='maven-reporting-api.git' />
   <project path='shared/reporting-exec'                     name='maven-reporting-exec.git' />
   <project path='shared/reporting-impl'                     name='maven-reporting-impl.git' />
@@ -149,10 +147,7 @@
   <project path='plexus/modello'                            name='modello.git'                   remote='plexus' />
   <project path='plexus/classworlds'                        name='plexus-classworlds.git'        remote='plexus' />
   <project path='plexus/components/archiver'                name='plexus-archiver.git'           remote='plexus' />
-  <project path='plexus/components/cipher'                  name='plexus-cipher.git'             remote='plexus' />
-  <project path='plexus/components/cli'                     name='plexus-cli.git'                remote='plexus' />
   <project path='plexus/components/compiler'                name='plexus-compiler.git'           remote='plexus' />
-  <project path='plexus/components/digest'                  name='plexus-digest.git'             remote='plexus' />
   <project path='plexus/components/i18n'                    name='plexus-i18n.git'               remote='plexus' />
   <project path='plexus/components/interactivity'           name='plexus-interactivity.git'      remote='plexus' />
   <project path='plexus/components/interpolation'           name='plexus-interpolation.git'      remote='plexus' />
@@ -160,10 +155,7 @@
   <project path='plexus/components/languages'               name='plexus-languages.git'          remote='plexus' />
   <project path='plexus/components/resources'               name='plexus-resources.git'          remote='plexus' />
   <project path='plexus/components/sec-dispatcher'          name='plexus-sec-dispatcher.git'     remote='plexus' />
-  <project path='plexus/components/swizzle'                 name='plexus-swizzle.git'            remote='plexus' />
   <project path='plexus/components/velocity'                name='plexus-velocity.git'           remote='plexus' />
-  <project path='plexus/plexus-containers'                  name='plexus-containers.git'         remote='plexus' />
-  <project path='plexus/pom/components'                     name='plexus-components.git'         remote='plexus' />
   <project path='plexus/pom/plexus'                         name='plexus-pom.git'                remote='plexus' />
   <project path='plexus/testing'                            name='plexus-testing.git'            remote='plexus' />
   <project path='plexus/utils'                              name='plexus-utils.git'              remote='plexus' />
