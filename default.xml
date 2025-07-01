@@ -38,25 +38,35 @@
   <project path='core/3.x/resolver-1'                       name='maven-resolver.git' revision="maven-resolver-1.9.x" />
   <project path='core/3.x/its-3'                            name='maven-integration-testing.git' revision="maven-3.9.x" />
 
-  <project path='plugins/core/maven-clean-plugin'           name='maven-clean-plugin.git' />
-  <project path='plugins/core/maven-compiler-plugin'        name='maven-compiler-plugin.git' />
-  <project path='plugins/core/maven-deploy-plugin'          name='maven-deploy-plugin.git' />
-  <project path='plugins/core/maven-install-plugin'         name='maven-install-plugin.git' />
-  <project path='plugins/core/maven-resources-plugin'       name='maven-resources-plugin.git' />
-  <project path='plugins/core/maven-site-plugin'            name='maven-site-plugin.git' />
+  <project path='plugins/core/maven-clean-plugin'           name='maven-clean-plugin.git' revision="maven-clean-plugin-3.x" />
+  <project path='plugins/core/maven-compiler-plugin'        name='maven-compiler-plugin.git' revision="maven-compiler-plugin-3.x" />
+  <project path='plugins/core/maven-deploy-plugin'          name='maven-deploy-plugin.git' revision="maven-deploy-plugin-3.x" />
+  <project path='plugins/core/maven-install-plugin'         name='maven-install-plugin.git' revision="maven-install-plugin-3.x" />
+  <project path='plugins/core/maven-resources-plugin'       name='maven-resources-plugin.git' revision="maven-resources-plugin-3.x" />
+  <project path='plugins/core/maven-site-plugin'            name='maven-site-plugin.git' revision="maven-site-plugin-3.x" />
   <project path='plugins/core/surefire'                     name='maven-surefire.git' />
   <project path='plugins/core/maven-verifier-plugin'        name='maven-verifier-plugin.git' />
 
+  <project path='plugins/core-4/maven-clean-plugin'         name='maven-clean-plugin.git' />
+  <project path='plugins/core-4/maven-compiler-plugin'      name='maven-compiler-plugin.git' />
+  <project path='plugins/core-4/maven-deploy-plugin'        name='maven-deploy-plugin.git' />
+  <project path='plugins/core-4/maven-install-plugin'       name='maven-install-plugin.git' />
+  <project path='plugins/core-4/maven-resources-plugin'     name='maven-resources-plugin.git' />
+  <project path='plugins/core-4/maven-site-plugin'          name='maven-site-plugin.git' />
+
   <project path='plugins/packaging/maven-ear-plugin'        name='maven-ear-plugin.git' />
   <project path='plugins/packaging/maven-ejb-plugin'        name='maven-ejb-plugin.git' />
-  <project path='plugins/packaging/maven-jar-plugin'        name='maven-jar-plugin.git' />
+  <project path='plugins/packaging/maven-jar-plugin'        name='maven-jar-plugin.git' revision="maven-jar-plugin-3.x" />
   <project path='plugins/packaging/maven-rar-plugin'        name='maven-rar-plugin.git' />
   <project path='plugins/packaging/maven-war-plugin'        name='maven-war-plugin.git' />
   <project path='plugins/packaging/maven-acr-plugin'        name='maven-acr-plugin.git' />
   <project path='plugins/packaging/maven-shade-plugin'      name='maven-shade-plugin.git' />
-  <project path='plugins/packaging/maven-source-plugin'     name='maven-source-plugin.git' />
+  <project path='plugins/packaging/maven-source-plugin'     name='maven-source-plugin.git' revision="maven-source-plugin-3.x" />
   <project path='plugins/packaging/maven-jlink-plugin'      name='maven-jlink-plugin.git' />
   <project path='plugins/packaging/maven-jmod-plugin'       name='maven-jmod-plugin.git' />
+
+  <project path='plugins/packaging-4/maven-jar-plugin'        name='maven-jar-plugin.git' />
+  <project path='plugins/packaging-4/maven-source-plugin'     name='maven-source-plugin.git' />
 
   <project path='plugins/reporting/maven-changelog-plugin'  name='maven-changelog-plugin.git' />
   <project path='plugins/reporting/maven-changes-plugin'    name='maven-changes-plugin.git' />
@@ -95,7 +105,7 @@
   <project path='shared/dependency-analyzer'                name='maven-dependency-analyzer.git' />
   <project path='shared/dependency-tree'                    name='maven-dependency-tree.git' />
   <project path='shared/file-management'                    name='maven-file-management.git' />
-  <project path='shared/filtering'                          name='maven-filtering.git' />
+  <project path='shared/filtering'                          name='maven-filtering.git' revision="maven-filtering-3.x" />
   <project path='shared/invoker'                            name='maven-invoker.git' />
   <project path='shared/jarsigner'                          name='maven-jarsigner.git' />
   <project path='shared/mapping'                            name='maven-mapping.git' />
@@ -110,6 +120,8 @@
   <project path='shared/shared-resources'                   name='maven-shared-resources.git' />
   <project path='shared/shared-utils'                       name='maven-shared-utils.git' />
   <project path='shared/verifier'                           name='maven-verifier.git' />
+
+  <project path='shared-4/filtering'                          name='maven-filtering.git' />
 
   <project path='doxia/doxia'                               name='maven-doxia.git' />
   <project path='doxia/site'                                name='maven-doxia-site.git' />
