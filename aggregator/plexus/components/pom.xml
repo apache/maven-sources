@@ -32,19 +32,15 @@ under the License.
 
   <name>Aggregator POM for Plexus Components</name>
   <modules>
-    <module>../../../../plexus/components/cipher</module>
     <module>../../../../plexus/components/compiler</module>
     <module>../../../../plexus/components/i18n</module>
     <module>../../../../plexus/components/interpolation</module>
     <module>../../../../plexus/components/languages</module>
     <module>../../../../plexus/components/sec-dispatcher</module>
     <module>../../../../plexus/components/archiver</module>
-    <!--<module>../../../../plexus/components/cli</module>-->
-    <module>../../../../plexus/components/digest</module>
     <module>../../../../plexus/components/interactivity</module>
     <module>../../../../plexus/components/io</module>
     <module>../../../../plexus/components/resources</module>
-    <!--module>../../../plexus/components/swizzle</module-->
     <module>../../../../plexus/components/velocity</module>
   </modules>
 </project>

@@ -61,9 +61,7 @@ Resulting directory tree looks like:
 |   |-- codehaus-plexus.github.io
 |   |-- components
 |   |   |-- archiver
-|   |   |-- cipher
 |   |   |-- compiler
-|   |   |-- digest
 |   |   |-- i18n
 |   |   |-- interactivity
 |   |   |-- interpolation
@@ -143,7 +141,6 @@ Resulting directory tree looks like:
 |       `-- scm
 |-- shared
 |   |-- archiver
-|   |-- artifact-transfer
 |   |-- common-artifact-filters
 |   |-- dependency-analyzer
 |   |-- dependency-tree
@@ -152,7 +149,6 @@ Resulting directory tree looks like:
 |   |-- invoker
 |   |-- jarsigner
 |   |-- mapping
-|   |-- project-utils
 |   |-- reporting-api
 |   |-- reporting-exec
 |   |-- reporting-impl
