@@ -107,6 +107,7 @@ Resulting directory tree looks like:
 |   |   |-- maven-source-plugin
 |   |   `-- maven-war-plugin
 |   |-- packaging-4
+|   |   |-- maven-jar-plugin
 |   |   `-- maven-source-plugin
 |   |-- reporting
 |   |   |-- jxr
@@ -160,7 +161,8 @@ Resulting directory tree looks like:
 |   |-- shared-utils
 |   `-- verifier
 |-- shared-4
-|   |-- filtering
+|   |-- archiver
+|   `-- filtering
 |-- sisu
 |   `-- sisu-project
 |-- site
