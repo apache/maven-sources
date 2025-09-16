@@ -37,7 +37,6 @@ Resulting directory tree looks like:
 |   `-- tools
 |       |-- converter
 |       |-- doxia-book-maven-plugin
-|       |-- doxia-book-renderer
 |       `-- linkcheck
 |-- misc
 |   |-- archetypes
@@ -117,7 +116,6 @@ Resulting directory tree looks like:
 |   |   |-- maven-doap-plugin
 |   |   |-- maven-javadoc-plugin
 |   |   |-- maven-jdeps-plugin
-|   |   |-- maven-linkcheck-plugin
 |   |   |-- maven-pmd-plugin
 |   |   `-- maven-project-info-reports-plugin
 |   `-- tools

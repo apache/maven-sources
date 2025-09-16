@@ -75,7 +75,6 @@
   <project path='plugins/reporting/maven-javadoc-plugin'    name='maven-javadoc-plugin.git' />
   <project path='plugins/reporting/maven-jdeps-plugin'      name='maven-jdeps-plugin.git' />
   <project path='plugins/reporting/jxr'                     name='maven-jxr.git' />
-  <project path='plugins/reporting/maven-linkcheck-plugin'  name='maven-linkcheck-plugin.git' />
   <project path='plugins/reporting/maven-pmd-plugin'        name='maven-pmd-plugin.git' />
   <project path='plugins/reporting/maven-project-info-reports-plugin' name='maven-project-info-reports-plugin.git' />
 
@@ -126,9 +125,7 @@
   <project path='doxia/site'                                name='maven-doxia-site.git' />
   <project path='doxia/sitetools'                           name='maven-doxia-sitetools.git' />
   <project path='doxia/tools/doxia-book-maven-plugin'       name='maven-doxia-book-maven-plugin.git' />
-  <project path='doxia/tools/doxia-book-renderer'           name='maven-doxia-book-renderer.git' />
   <project path='doxia/tools/converter'                     name='maven-doxia-converter.git' />
-  <project path='doxia/tools/linkcheck'                     name='maven-doxia-linkcheck.git' />
 
   <project path='misc/archetypes'                           name='maven-archetypes.git' />
   <project path='misc/pom/maven'                            name='maven-parent.git' />
