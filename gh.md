@@ -163,3 +163,10 @@
 
 # sisu
 - [![GitHub branch status](https://img.shields.io/github/checks-status/eclipse-sisu/sisu-project/master)](https://github.com/eclipse-sisu/sisu-project/tree/master) sisu-project
+
+# not listed in default.xml
+- [maven-hocon-extension](https://github.com/apache/maven-hocon-extension)
+- [maven-metric-extension](https://github.com/apache/maven-metric-extension)
+- [maven-build-helper-plugin](https://github.com/apache/maven-build-helper-plugin)
+- [maven-blog](https://github.com/apache/maven-blog)
+- [maven-xinclude-extension](https://github.com/apache/maven-xinclude-extension)
