@@ -42,6 +42,8 @@ Resulting directory tree looks like:
 |   |-- archetypes
 |   |-- dist-tool
 |   |-- gh-actions-shared
+|   |   |-- main
+|   |   `-- v4
 |   |-- indexer
 |   |-- jenkins
 |   |   |-- env

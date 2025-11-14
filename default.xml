@@ -133,7 +133,8 @@
   <project path='misc/pom/apache-resources'                 name='maven-apache-resources.git' />
   <project path='misc/skins/fluido'                         name='maven-fluido-skin.git' />
   <project path='misc/dist-tool'                            name='maven-dist-tool.git' />
-  <project path='misc/gh-actions-shared'                    name='maven-gh-actions-shared.git' revision="main" />
+  <project path='misc/gh-actions-shared/main'               name='maven-gh-actions-shared.git' revision="main" />
+  <project path='misc/gh-actions-shared/v4'                 name='maven-gh-actions-shared.git' revision="v4" />
   <project path='misc/jenkins/env'                          name='maven-jenkins-env.git' />
   <project path='misc/jenkins/lib'                          name='maven-jenkins-lib.git' />
   <project path='misc/indexer'                              name='maven-indexer.git' />
