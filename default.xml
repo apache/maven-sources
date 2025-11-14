@@ -131,7 +131,6 @@
   <project path='misc/pom/maven'                            name='maven-parent.git' />
   <project path='misc/pom/apache'                           name='maven-apache-parent.git' />
   <project path='misc/pom/apache-resources'                 name='maven-apache-resources.git' />
-  <project path='misc/skins/default'                        name='maven-default-skin.git' />
   <project path='misc/skins/fluido'                         name='maven-fluido-skin.git' />
   <project path='misc/dist-tool'                            name='maven-dist-tool.git' />
   <project path='misc/gh-actions-shared'                    name='maven-gh-actions-shared.git' revision="main" />

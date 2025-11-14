@@ -32,6 +32,8 @@
   <project path='plugins/tools/maven-pdf-plugin'            name='maven-pdf-plugin.git' />
   <project path='plugins/tools/maven-repository-plugin'     name='maven-repository-plugin.git' />
 
+  <project path='misc/skins/default'                        name='maven-default-skin.git' />
+
   <project path='shared/artifact-resolver'                  name='maven-artifact-resolver.git' /> 
   <project path='shared/artifact-transfer'                  name='maven-artifact-transfer.git' />
   <project path='shared/downloader'                         name='maven-downloader.git' />

@@ -40,7 +40,6 @@ under the License.
     <module>../../../misc/pom/apache</module>
     <module>../../../misc/pom/apache-resources</module>
     <module>../../../misc/pom/maven</module>
-    <module>../../../misc/skins/default</module>
     <module>../../../misc/skins/fluido</module>
     <!-- not a module: studies -->
     <module>../../../misc/wagon</module>
