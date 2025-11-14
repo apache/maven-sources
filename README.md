@@ -52,7 +52,6 @@ Resulting directory tree looks like:
 |   |   |-- apache-resources
 |   |   `-- maven
 |   |-- skins
-|   |   |-- default
 |   |   `-- fluido
 |   `-- wagon
 |-- plexus
