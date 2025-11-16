@@ -29,6 +29,7 @@
 
   <project path='core/build-cache'                          name='maven-build-cache-extension.git' />
   <project path='core/maven'                                name='maven.git' />
+  <project path='core/maven-4.0.x'                          name='maven.git' revision="maven-4.0.x" />
   <project path='core/mvnd'                                 name='maven-mvnd.git' />
   <project path='core/resolver'                             name='maven-resolver.git' />
   <project path='core/resolver-ant-tasks'                   name='maven-resolver-ant-tasks.git' />
