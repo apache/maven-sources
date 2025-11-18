@@ -21,6 +21,7 @@ Resulting directory tree looks like:
 |-- core
 |   |-- build-cache
 |   |-- maven
+|   |-- maven-4.0.x
 |   |-- mvnd
 |   |-- resolver
 |   |-- resolver-ant-tasks
