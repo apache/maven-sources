@@ -172,5 +172,5 @@
   <project path='plexus/utils'                              name='plexus-utils.git'              remote='plexus' />
   <project path='plexus/xml'                                name='plexus-xml.git'                remote='plexus' />
 
-  <project path='sisu/sisu-project'                         name='sisu-project.git'              remote='sisu' />
+  <project path='sisu/sisu-project'                         name='sisu-project.git'              remote='sisu' revision='main' />
 </manifest>
