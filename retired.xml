@@ -22,7 +22,6 @@
   <remote name='origin'  fetch='https://github.com/apache' />
   <remote name='plexus'  fetch='https://github.com/codehaus-plexus' />
   <remote name='svn2git' fetch='https://github.com/apache' />
-  <remote name='sisu'    fetch='https://github.com/eclipse-sisu' />
   <default revision='master' remote='origin' sync-j='8' />
 
   <project path='plugins/reporting/maven-docck-plugin'      name='maven-docck-plugin.git' />
