@@ -44,7 +44,7 @@
   <project path='plugins/core/maven-deploy-plugin'          name='maven-deploy-plugin.git' revision="maven-deploy-plugin-3.x" />
   <project path='plugins/core/maven-install-plugin'         name='maven-install-plugin.git' revision="maven-install-plugin-3.x" />
   <project path='plugins/core/maven-resources-plugin'       name='maven-resources-plugin.git' revision="maven-resources-plugin-3.x" />
-  <project path='plugins/core/maven-site-plugin'            name='maven-site-plugin.git' revision="maven-site-plugin-3.x" />
+  <project path='plugins/core/maven-site-plugin'            name='maven-site-plugin.git' />
   <project path='plugins/core/surefire'                     name='maven-surefire.git' />
   <project path='plugins/core/maven-verifier-plugin'        name='maven-verifier-plugin.git' />
 
@@ -53,7 +53,6 @@
   <project path='plugins/core-4/maven-deploy-plugin'        name='maven-deploy-plugin.git' />
   <project path='plugins/core-4/maven-install-plugin'       name='maven-install-plugin.git' />
   <project path='plugins/core-4/maven-resources-plugin'     name='maven-resources-plugin.git' />
-  <project path='plugins/core-4/maven-site-plugin'          name='maven-site-plugin.git' />
 
   <project path='plugins/packaging/maven-ear-plugin'        name='maven-ear-plugin.git' />
   <project path='plugins/packaging/maven-ejb-plugin'        name='maven-ejb-plugin.git' />

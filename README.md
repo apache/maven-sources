@@ -94,8 +94,7 @@ Resulting directory tree looks like:
 |   |   |-- maven-compiler-plugin
 |   |   |-- maven-deploy-plugin
 |   |   |-- maven-install-plugin
-|   |   |-- maven-resources-plugin
-|   |   |-- maven-site-plugin
+|   |   `-- maven-resources-plugin
 |   |-- packaging
 |   |   |-- maven-acr-plugin
 |   |   |-- maven-ear-plugin
