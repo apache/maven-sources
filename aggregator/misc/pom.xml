@@ -33,6 +33,7 @@ under the License.
   <name>Aggregator POM for misc</name>
   <modules>
     <module>../../../misc/archetypes</module>
+    <module>../../../misc/executor</module>
     <module>../../../misc/dist-tool</module>
     <module>../../../misc/indexer</module>
     <!-- not a module: jenkins -->

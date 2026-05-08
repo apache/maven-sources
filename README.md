@@ -42,6 +42,7 @@ Resulting directory tree looks like:
 |-- misc
 |   |-- archetypes
 |   |-- dist-tool
+|   |-- executor
 |   |-- gh-actions-shared
 |   |   |-- main
 |   |   `-- v4
