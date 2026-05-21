@@ -124,7 +124,6 @@
   <project path='doxia/doxia'                               name='maven-doxia.git' />
   <project path='doxia/site'                                name='maven-doxia-site.git' />
   <project path='doxia/sitetools'                           name='maven-doxia-sitetools.git' />
-  <project path='doxia/tools/doxia-book-maven-plugin'       name='maven-doxia-book-maven-plugin.git' />
   <project path='doxia/tools/converter'                     name='maven-doxia-converter.git' />
 
   <project path='misc/archetypes'                           name='maven-archetypes.git' />
