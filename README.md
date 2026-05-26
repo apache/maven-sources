@@ -37,8 +37,6 @@ Resulting directory tree looks like:
 |   |-- sitetools
 |   `-- tools
 |       |-- converter
-|       |-- doxia-book-maven-plugin
-|       `-- linkcheck
 |-- misc
 |   |-- archetypes
 |   |-- dist-tool
