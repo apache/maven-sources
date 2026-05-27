@@ -27,10 +27,9 @@ Resulting directory tree looks like:
 |   |-- resolver-ant-tasks
 |   |-- wrapper
 |   `-- 3.x
-|       |-- its
+|       |-- its-3
 |       |-- maven-3
-|       |-- mvnd-1
-|       `-- resolver-1
+|       `-- mvnd-1
 |-- doxia
 |   |-- doxia
 |   |-- site
