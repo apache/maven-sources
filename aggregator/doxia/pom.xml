@@ -33,7 +33,6 @@ under the License.
   <name>Aggregator POM for Doxia</name>
   <modules>
     <module>../../../doxia/doxia</module>
-    <module>../../../doxia/site</module>
     <module>../../../doxia/sitetools</module>
     <module>../../../doxia/tools/converter</module>
   </modules>

@@ -32,10 +32,9 @@ Resulting directory tree looks like:
 |       `-- mvnd-1
 |-- doxia
 |   |-- doxia
-|   |-- site
 |   |-- sitetools
 |   `-- tools
-|       |-- converter
+|       `-- converter
 |-- misc
 |   |-- archetypes
 |   |-- dist-tool

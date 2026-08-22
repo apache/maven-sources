@@ -119,7 +119,6 @@
   <project path='shared-4/filtering'                        name='maven-filtering.git' />
 
   <project path='doxia/doxia'                               name='maven-doxia.git' />
-  <project path='doxia/site'                                name='maven-doxia-site.git' />
   <project path='doxia/sitetools'                           name='maven-doxia-sitetools.git' />
   <project path='doxia/tools/converter'                     name='maven-doxia-converter.git' />
 
