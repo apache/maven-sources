@@ -46,7 +46,6 @@ under the License.
     <module>../../../shared/reporting-impl</module>
     <module>../../../shared/script-interpreter</module>
     <module>../../../shared/shared-incremental</module>
-    <module>../../../shared/shared-io</module>
     <module>../../../shared/shared-jar</module>
     <module>../../../shared/shared-resources</module>
     <module>../../../shared/shared-utils</module>
