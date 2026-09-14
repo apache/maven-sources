@@ -109,7 +109,6 @@
   <project path='shared/reporting-impl'                     name='maven-reporting-impl.git' />
   <project path='shared/script-interpreter'                 name='maven-script-interpreter.git' />
   <project path='shared/shared-incremental'                 name='maven-shared-incremental.git' />
-  <project path='shared/shared-io'                          name='maven-shared-io.git' />
   <project path='shared/shared-jar'                         name='maven-shared-jar.git' />
   <project path='shared/shared-resources'                   name='maven-shared-resources.git' />
   <project path='shared/shared-utils'                       name='maven-shared-utils.git' />
