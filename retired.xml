@@ -49,6 +49,7 @@
   <project path='shared/project-utils'                      name='maven-project-utils.git' />
   <project path='shared/repository-builder'                 name='maven-repository-builder.git' />
   <project path='shared/runtime'                            name='maven-runtime.git' />
+  <project path='shared/shared-io'                          name='maven-shared-io.git' />
 
   <project path='svn/repository-tools'                      name='maven-repository-tools.git'    revision='trunk' />
   <project path='svn/sandbox'                               name='maven-sandbox.git'             revision='trunk' />
