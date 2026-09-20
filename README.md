@@ -115,25 +115,27 @@ Resulting directory tree looks like:
 |   |   |-- maven-jdeps-plugin
 |   |   |-- maven-pmd-plugin
 |   |   `-- maven-project-info-reports-plugin
-|   `-- tools
-|       |-- archetype
-|       |-- enforcer
-|       |-- maven-antrun-plugin
-|       |-- maven-artifact-plugin
-|       |-- maven-assembly-plugin
-|       |-- maven-dependency-plugin
-|       |-- maven-gpg-plugin
-|       |-- maven-help-plugin
-|       |-- maven-invoker-plugin
-|       |-- maven-jarsigner-plugin
-|       |-- maven-jdeprscan-plugin
-|       |-- maven-remote-resources-plugin
-|       |-- maven-scm-publish-plugin
-|       |-- maven-scripting-plugin
-|       |-- maven-toolchains-plugin
-|       |-- plugin-tools
-|       |-- release
-|       `-- scm
+|   |-- tools
+|   |   |-- archetype
+|   |   |-- enforcer
+|   |   |-- maven-antrun-plugin
+|   |   |-- maven-artifact-plugin
+|   |   |-- maven-assembly-plugin
+|   |   |-- maven-dependency-plugin
+|   |   |-- maven-gpg-plugin
+|   |   |-- maven-help-plugin
+|   |   |-- maven-invoker-plugin
+|   |   |-- maven-jarsigner-plugin
+|   |   |-- maven-jdeprscan-plugin
+|   |   |-- maven-remote-resources-plugin
+|   |   |-- maven-scm-publish-plugin
+|   |   |-- maven-scripting-plugin
+|   |   |-- maven-toolchains-plugin
+|   |   |-- plugin-tools
+|   |   |-- release
+|   |   `-- scm
+|   `-- tools-4
+|       `-- plugin-tools
 |-- shared
 |   |-- archiver
 |   |-- common-artifact-filters
