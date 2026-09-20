@@ -87,15 +87,13 @@
   <project path='plugins/tools/maven-invoker-plugin'        name='maven-invoker-plugin.git' />
   <project path='plugins/tools/maven-jarsigner-plugin'      name='maven-jarsigner-plugin.git' />
   <project path='plugins/tools/maven-jdeprscan-plugin'      name='maven-jdeprscan-plugin.git' />
-  <project path='plugins/tools/plugin-tools'                name='maven-plugin-tools.git' revision="maven-plugin-tools-3.x" />
+  <project path='plugins/tools/plugin-tools'                name='maven-plugin-tools.git' />
   <project path='plugins/tools/release'                     name='maven-release.git' />
   <project path='plugins/tools/maven-remote-resources-plugin' name='maven-remote-resources-plugin.git' />
   <project path='plugins/tools/scm'                         name='maven-scm.git' />
   <project path='plugins/tools/maven-scm-publish-plugin'    name='maven-scm-publish-plugin.git' />
   <project path='plugins/tools/maven-scripting-plugin'      name='maven-scripting-plugin.git' />
   <project path='plugins/tools/maven-toolchains-plugin'     name='maven-toolchains-plugin.git' />
-
-  <project path='plugins/tools-4/plugin-tools'              name='maven-plugin-tools.git' />
 
   <project path='shared/archiver'                           name='maven-archiver.git' revision="maven-archiver-3.x" />
   <project path='shared/common-artifact-filters'            name='maven-common-artifact-filters.git' />
