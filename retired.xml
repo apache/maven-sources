@@ -51,6 +51,7 @@
   <project path='shared/runtime'                            name='maven-runtime.git' />
   <project path='shared/shared-incremental'                 name='maven-shared-incremental.git' />
   <project path='shared/shared-io'                          name='maven-shared-io.git' />
+  <project path='shared/verifier'                           name='maven-verifier.git' />
 
   <project path='svn/repository-tools'                      name='maven-repository-tools.git'    revision='trunk' />
   <project path='svn/sandbox'                               name='maven-sandbox.git'             revision='trunk' />

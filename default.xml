@@ -111,7 +111,6 @@
   <project path='shared/shared-jar'                         name='maven-shared-jar.git' />
   <project path='shared/shared-resources'                   name='maven-shared-resources.git' />
   <project path='shared/shared-utils'                       name='maven-shared-utils.git' />
-  <project path='shared/verifier'                           name='maven-verifier.git' />
 
   <project path='shared-4/archiver'                         name='maven-archiver.git' />
   <project path='shared-4/filtering'                        name='maven-filtering.git' />
